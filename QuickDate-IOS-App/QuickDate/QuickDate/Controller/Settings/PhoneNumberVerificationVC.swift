@@ -101,8 +101,8 @@ extension PhoneNumberVerificationVC {
     func sendSMS() {
         print("Starting...")
         self.showProgressDialog(with: "Loading...")
-        let twilioSID = AppInstance.shared.adminAllSettings?.data?.smsTwilioUsername ?? ""//"ACf67f6a6b76e22ace72699dbdc36e1783"
-        let twilioSecret = AppInstance.shared.adminAllSettings?.data?.smsTwilioPassword ?? ""//"0734c0c6ab41aa3b7a630e264d55b0bb"
+        let twilioSID = AppInstance.shared.adminAllSettings?.data?.smsTwilioUsername ?? ""
+        let twilioSecret = AppInstance.shared.adminAllSettings?.data?.smsTwilioPassword ?? ""
         //Note replace + = %2B , for To and From phone number
         let fromNumber = AppInstance.shared.adminAllSettings?.data?.smsTPhoneNumber ?? ""//"+18572148349"// actual number is +9999999
         let toNumber = "+91"+"\(phoneTF.text ?? "")"// actual number is +9999999
