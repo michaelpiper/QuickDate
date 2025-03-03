@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "CuongLV"; ObjectID = "Aeo-Wq-CVn"; */
+"Aeo-Wq-CVn.text" = "CuongLV";
+
+/* Class = "UITextField"; placeholder = "Write your message"; ObjectID = "SsL-d1-ShJ"; */
+"SsL-d1-ShJ.placeholder" = "Write your message";
+
+/* Class = "UILabel"; text = "Last seen 2 months ago"; ObjectID = "erD-Hn-Sr2"; */
+"erD-Hn-Sr2.text" = "Last seen 2 months ago";

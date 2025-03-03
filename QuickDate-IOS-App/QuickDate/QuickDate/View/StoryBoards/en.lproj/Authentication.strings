@@ -1,0 +1,156 @@
+
+/* Class = "UILabel"; text = "Please enter your email address. We will send you a link to reset password."; ObjectID = "0ZU-hh-g7k"; */
+"0ZU-hh-g7k.text" = "Please enter your email address. We will send you a link to reset password.";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "4ZZ-rk-bhM"; */
+"4ZZ-rk-bhM.placeholder" = "Last Name";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "4bH-yX-3pg"; */
+"4bH-yX-3pg.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "5m3-kl-sje"; */
+"5m3-kl-sje.normalTitle" = "Register";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "9Gh-MY-3Wu"; */
+"9Gh-MY-3Wu.placeholder" = "Confirm Password";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "9yz-hC-btf"; */
+"9yz-hC-btf.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Verification"; ObjectID = "Ajb-bv-62D"; */
+"Ajb-bv-62D.text" = "Verification";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "CNs-If-QUH"; */
+"CNs-If-QUH.title" = " ";
+
+/* Class = "UILabel"; text = "Flirt, Chat, and meet people around you."; ObjectID = "DTK-Xm-6By"; */
+"DTK-Xm-6By.text" = "Flirt, Chat, and meet people around you.";
+
+/* Class = "UILabel"; text = "Forget Password"; ObjectID = "DvK-ru-hIP"; */
+"DvK-ru-hIP.text" = "Forget Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "E5A-Af-TZP"; */
+"E5A-Af-TZP.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "BY REGISTERING YOU AGREE TO OUR TERM OF SERVICE"; ObjectID = "EZf-sC-ulJ"; */
+"EZf-sC-ulJ.text" = "BY REGISTERING YOU AGREE TO OUR TERM OF SERVICE";
+
+/* Class = "UILabel"; text = "ALREADY HAVE AN ACCOUNT?"; ObjectID = "Hmt-Ir-LAd"; */
+"Hmt-Ir-LAd.text" = "ALREADY HAVE AN ACCOUNT?";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "MTL-ZN-Wzk"; */
+"MTL-ZN-Wzk.normalTitle" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "Mbj-tE-t74"; */
+"Mbj-tE-t74.normalTitle" = "Sign in";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "Nb0-QR-ols"; */
+"Nb0-QR-ols.placeholder" = "First Name";
+
+/* Class = "UIButton"; normalTitle = "NO, OTHER TIME"; ObjectID = "Nog-SF-qaU"; */
+"Nog-SF-qaU.normalTitle" = "NO, OTHER TIME";
+
+/* Class = "UIButton"; normalTitle = "Continue with Facebook"; ObjectID = "OIc-Sx-5xB"; */
+"OIc-Sx-5xB.normalTitle" = "Continue with Facebook";
+
+/* Class = "UIButton"; normalTitle = "Login with WoWonder"; ObjectID = "Ox0-aF-i58"; */
+"Ox0-aF-i58.normalTitle" = "Login with WoWonder";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "QEw-GY-lQx"; */
+"QEw-GY-lQx.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "QlU-DW-KtF"; */
+"QlU-DW-KtF.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Gender"; ObjectID = "RPJ-Gw-HtH"; */
+"RPJ-Gw-HtH.placeholder" = "Gender";
+
+/* Class = "UIButton"; normalTitle = "CREATE AN ACCOUNT"; ObjectID = "Up8-vL-feJ"; */
+"Up8-vL-feJ.normalTitle" = "CREATE AN ACCOUNT";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "UyV-EG-ZC7"; */
+"UyV-EG-ZC7.title" = " ";
+
+/* Class = "UILabel"; text = "DON'T HAVE AN ACCOUNT?"; ObjectID = "X6a-w3-V07"; */
+"X6a-w3-V07.text" = "DON'T HAVE AN ACCOUNT?";
+
+/* Class = "UIButton"; normalTitle = "Continue with Facebook"; ObjectID = "XWH-Bv-xqU"; */
+"XWH-Bv-xqU.normalTitle" = "Continue with Facebook";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "Y7u-hw-MT4"; */
+"Y7u-hw-MT4.normalTitle" = "SIGN IN";
+
+/* Class = "UILabel"; text = "Please type email of account you want to recover. You will get 4-digits recovery code"; ObjectID = "YUA-qd-H7U"; */
+"YUA-qd-H7U.text" = "Please type email of account you want to recover. You will get 4-digits recovery code";
+
+/* Class = "UILabel"; text = "BY REGISTERING YOU AGREE TO OUR TERMS OF SERVICE"; ObjectID = "dKN-fb-YfF"; */
+"dKN-fb-YfF.text" = "BY REGISTERING YOU AGREE TO OUR TERMS OF SERVICE";
+
+/* Class = "UILabel"; text = "Swipe Cards"; ObjectID = "dtd-3S-WOa"; */
+"dtd-3S-WOa.text" = "Swipe Cards";
+
+/* Class = "UILabel"; text = "Verify your Number"; ObjectID = "e52-Xy-aiD"; */
+"e52-Xy-aiD.text" = "Verify your Number";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "gQp-ko-2uc"; */
+"gQp-ko-2uc.normalTitle" = "Get Started";
+
+/* Class = "UILabel"; text = "To log in, you need to verify  your identity."; ObjectID = "klF-X1-7JW"; */
+"klF-X1-7JW.text" = "To log in, you need to verify  your identity.";
+
+/* Class = "UITextField"; placeholder = "Passsword"; ObjectID = "kqj-hz-pf5"; */
+"kqj-hz-pf5.placeholder" = "Passsword";
+
+/* Class = "UILabel"; text = "Please enter your mobile number to receive a verification code. Carrier rates may apply"; ObjectID = "l9k-fe-UhY"; */
+"l9k-fe-UhY.text" = "Please enter your mobile number to receive a verification code. Carrier rates may apply";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "lOw-aH-HlN"; */
+"lOw-aH-HlN.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "lv7-St-fui"; */
+"lv7-St-fui.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "nWR-c0-w8b"; */
+"nWR-c0-w8b.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "o5G-Ii-1Se"; */
+"o5G-Ii-1Se.normalTitle" = "Sign In";
+
+/* Class = "UILabel"; text = "Swipe cards right and left if you like or dislike someone"; ObjectID = "pxz-fx-7Cp"; */
+"pxz-fx-7Cp.text" = "Swipe cards right and left if you like or dislike someone";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "qVQ-St-DMA"; */
+"qVQ-St-DMA.normalTitle" = "REGISTER";
+
+/* Class = "UIButton"; normalTitle = "VERIFY "; ObjectID = "re5-vn-PVs"; */
+"re5-vn-PVs.normalTitle" = "VERIFY ";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "snG-as-TxW"; */
+"snG-as-TxW.normalTitle" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "t7d-Ya-Ym2"; */
+"t7d-Ya-Ym2.normalTitle" = "Forgot Password?";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "uIh-70-btL"; */
+"uIh-70-btL.placeholder" = "Phone Number";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "wNQ-lK-pZA"; */
+"wNQ-lK-pZA.placeholder" = "Username";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "wWP-2L-O8f"; */
+"wWP-2L-O8f.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "We have sent you the confirmation code to your email address."; ObjectID = "xsj-hB-o3v"; */
+"xsj-hB-o3v.text" = "We have sent you the confirmation code to your email address.";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "yIa-Zs-cdp"; */
+"yIa-Zs-cdp.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "ywL-rq-PZp"; */
+"ywL-rq-PZp.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Swipe right to like someone and if you both like each other? Its a match."; ObjectID = "z7W-I0-jHA"; */
+"z7W-I0-jHA.text" = "Swipe right to like someone and if you both like each other? Its a match.";
+
+/* Class = "UITextField"; placeholder = "Add code number "; ObjectID = "z9B-ej-3DW"; */
+"z9B-ej-3DW.placeholder" = "Add code number ";

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="UpgradeAccountCollectionItem" id="DbQ-a7-fgU" customClass="UpgradeAccountCollectionItem" customModule="QuickDate" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="150" height="171"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                <rect key="frame" x="0.0" y="0.0" width="150" height="171"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="tsO-ID-74V">
+                        <rect key="frame" x="0.0" y="0.0" width="150" height="171"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Weekly" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="skF-IJ-ujn">
+                                <rect key="frame" x="45.5" y="16" width="59" height="25.5"/>
+                                <fontDescription key="fontDescription" name="ChalkboardSE-Light" family="Chalkboard SE" pointSize="18"/>
+                                <color key="textColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="8$" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="S3G-d7-u57">
+                                <rect key="frame" x="57.5" y="57.5" width="35" height="42.5"/>
+                                <fontDescription key="fontDescription" name="ChalkboardSE-Regular" family="Chalkboard SE" pointSize="30"/>
+                                <color key="textColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="FBl-Kj-RsT">
+                                <rect key="frame" x="8" y="116" width="134" height="1"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="0.75" id="XxR-ql-2JV"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Normal" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="36s-wQ-OU4">
+                                <rect key="frame" x="16" y="133" width="118" height="21.5"/>
+                                <fontDescription key="fontDescription" name="ChalkboardSE-Light" family="Chalkboard SE" pointSize="15"/>
+                                <color key="textColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.56862745100000001" green="0.1843137255" blue="0.52549019610000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="FBl-Kj-RsT" secondAttribute="trailing" constant="8" id="1e8-rc-r4f"/>
+                            <constraint firstItem="skF-IJ-ujn" firstAttribute="centerX" secondItem="tsO-ID-74V" secondAttribute="centerX" id="Ae9-5G-89j"/>
+                            <constraint firstItem="FBl-Kj-RsT" firstAttribute="top" secondItem="S3G-d7-u57" secondAttribute="bottom" constant="16" id="EBU-WE-dxl"/>
+                            <constraint firstItem="S3G-d7-u57" firstAttribute="centerX" secondItem="skF-IJ-ujn" secondAttribute="centerX" id="JuR-ht-5Wu"/>
+                            <constraint firstItem="36s-wQ-OU4" firstAttribute="leading" secondItem="tsO-ID-74V" secondAttribute="leading" constant="16" id="Y1H-QZ-UtM"/>
+                            <constraint firstItem="36s-wQ-OU4" firstAttribute="top" secondItem="FBl-Kj-RsT" secondAttribute="bottom" constant="16" id="ckG-MA-B6F"/>
+                            <constraint firstAttribute="trailing" secondItem="36s-wQ-OU4" secondAttribute="trailing" constant="16" id="eDF-2F-hLM"/>
+                            <constraint firstItem="FBl-Kj-RsT" firstAttribute="leading" secondItem="tsO-ID-74V" secondAttribute="leading" constant="8" id="o6c-aJ-v6h"/>
+                            <constraint firstItem="skF-IJ-ujn" firstAttribute="top" secondItem="tsO-ID-74V" secondAttribute="top" constant="16" id="wch-Th-pOc"/>
+                            <constraint firstItem="S3G-d7-u57" firstAttribute="top" secondItem="skF-IJ-ujn" secondAttribute="bottom" constant="16" id="ydU-PQ-Tdt"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusV">
+                                <real key="value" value="10"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="tsO-ID-74V" secondAttribute="bottom" id="1KX-H6-M6F"/>
+                <constraint firstAttribute="trailing" secondItem="tsO-ID-74V" secondAttribute="trailing" id="3fq-ee-2vC"/>
+                <constraint firstItem="tsO-ID-74V" firstAttribute="leading" secondItem="DbQ-a7-fgU" secondAttribute="leading" id="Tiw-EN-BZl"/>
+                <constraint firstItem="tsO-ID-74V" firstAttribute="top" secondItem="DbQ-a7-fgU" secondAttribute="top" id="oc8-78-w0V"/>
+            </constraints>
+            <connections>
+                <outlet property="backgroundVIew" destination="tsO-ID-74V" id="Trb-8y-GH2"/>
+                <outlet property="moneyLabel" destination="S3G-d7-u57" id="ZdS-tV-uuA"/>
+                <outlet property="planNameLabel" destination="skF-IJ-ujn" id="qMh-RF-LJ2"/>
+                <outlet property="planTypeLabel" destination="36s-wQ-OU4" id="77C-67-fUe"/>
+            </connections>
+            <point key="canvasLocation" x="380" y="108"/>
+        </collectionViewCell>
+    </objects>
+</document>

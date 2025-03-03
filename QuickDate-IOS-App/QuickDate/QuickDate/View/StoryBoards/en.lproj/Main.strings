@@ -1,0 +1,90 @@
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "3nt-4d-rPN"; */
+"3nt-4d-rPN.title" = "Item";
+
+/* Class = "UILabel"; text = "No Notifications Yet"; ObjectID = "HLS-yr-dFh"; */
+"HLS-yr-dFh.text" = "No Notifications Yet";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "KDh-yA-nZR"; */
+"KDh-yA-nZR.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Get x3 Matches"; ObjectID = "KvH-lZ-pnp"; */
+"KvH-lZ-pnp.normalTitle" = "Get x3 Matches";
+
+/* Class = "UILabel"; text = "Your Popularity"; ObjectID = "LHR-mo-bbc"; */
+"LHR-mo-bbc.text" = "Your Popularity";
+
+/* Class = "UILabel"; text = "35 Credits"; ObjectID = "NlM-j0-mbm"; */
+"NlM-j0-mbm.text" = "35 Credits";
+
+/* Class = "UIButton"; normalTitle = "Get x4 Likes"; ObjectID = "Qfu-2k-eAY"; */
+"Qfu-2k-eAY.normalTitle" = "Get x4 Likes";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Sqy-K4-q0V"; */
+"Sqy-K4-q0V.title" = "Item";
+
+/* Class = "UILabel"; text = "25 Credits"; ObjectID = "W0o-IE-ukQ"; */
+"W0o-IE-ukQ.text" = "25 Credits";
+
+/* Class = "UILabel"; text = "Promote your profile by get more visits, for 5 minutes"; ObjectID = "WRt-Er-B5K"; */
+"WRt-Er-B5K.text" = "Promote your profile by get more visits, for 5 minutes";
+
+/* Class = "UILabel"; text = "We will display once you get your first activity here "; ObjectID = "XDs-6r-Cig"; */
+"XDs-6r-Cig.text" = "We will display once you get your first activity here ";
+
+/* Class = "UILabel"; text = "Show more and rise up at the same time, for 4 minutes"; ObjectID = "Y08-V3-0oJ"; */
+"Y08-V3-0oJ.text" = "Show more and rise up at the same time, for 4 minutes";
+
+/* Class = "UILabel"; text = "We will display once you get your first activity here "; ObjectID = "Zws-zb-gAg"; */
+"Zws-zb-gAg.text" = "We will display once you get your first activity here ";
+
+/* Class = "UILabel"; text = "Tell everyone you're online and be seen by users who want to chat, for 5 minutes"; ObjectID = "aEb-OV-QrZ"; */
+"aEb-OV-QrZ.text" = "Tell everyone you're online and be seen by users who want to chat, for 5 minutes";
+
+/* Class = "UINavigationItem"; title = "QuickDate"; ObjectID = "aW8-XI-oT2"; */
+"aW8-XI-oT2.title" = "QuickDate";
+
+/* Class = "UILabel"; text = "QuickDate"; ObjectID = "b0L-Tf-b9o"; */
+"b0L-Tf-b9o.text" = "QuickDate";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "bOE-Wy-jqk"; */
+"bOE-Wy-jqk.text" = "Notifications";
+
+/* Class = "UILabel"; text = "No Notifications Yet"; ObjectID = "fZN-mP-yYx"; */
+"fZN-mP-yYx.text" = "No Notifications Yet";
+
+/* Class = "UILabel"; text = "No Notifications Yet"; ObjectID = "kaP-mu-o2p"; */
+"kaP-mu-o2p.text" = "No Notifications Yet";
+
+/* Class = "UILabel"; text = "45 Credits"; ObjectID = "mpF-Ja-rRK"; */
+"mpF-Ja-rRK.text" = "45 Credits";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "nJn-9R-RDJ"; */
+"nJn-9R-RDJ.title" = "Item";
+
+/* Class = "UILabel"; text = "No Notifications Yet"; ObjectID = "qS2-im-ghc"; */
+"qS2-im-ghc.text" = "No Notifications Yet";
+
+/* Class = "UILabel"; text = "There are no messages"; ObjectID = "qzZ-j7-oq4"; */
+"qzZ-j7-oq4.text" = "There are no messages";
+
+/* Class = "UILabel"; text = "Very Low"; ObjectID = "sL7-3e-HER"; */
+"sL7-3e-HER.text" = "Very Low";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "tGc-w4-vj5"; */
+"tGc-w4-vj5.title" = "Item";
+
+/* Class = "UILabel"; text = "We will display once you get your first activity here "; ObjectID = "vM4-Ps-IFY"; */
+"vM4-Ps-IFY.text" = "We will display once you get your first activity here ";
+
+/* Class = "UIButton"; normalTitle = "Get x10 Visits"; ObjectID = "vpv-1t-xRc"; */
+"vpv-1t-xRc.normalTitle" = "Get x10 Visits";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "wQ9-oG-Zd5"; */
+"wQ9-oG-Zd5.title" = "Item";
+
+/* Class = "UILabel"; text = "Chats"; ObjectID = "xNw-Gy-Wt7"; */
+"xNw-Gy-Wt7.text" = "Chats";
+
+/* Class = "UILabel"; text = "We will display once you get your first activity here "; ObjectID = "ySQ-hQ-u4f"; */
+"ySQ-hQ-u4f.text" = "We will display once you get your first activity here ";

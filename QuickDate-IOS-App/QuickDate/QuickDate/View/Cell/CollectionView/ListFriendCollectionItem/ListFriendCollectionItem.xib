@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-Regular.otf">
+            <string>Poppins-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="ListFriendCollectionItem" id="PCL-cr-PBK" customClass="ListFriendCollectionItem" customModule="QuickDate" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="166" height="244"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                <rect key="frame" x="0.0" y="0.0" width="166" height="244"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="firstImage1" translatesAutoresizingMaskIntoConstraints="NO" id="3Zs-7y-IYe">
+                        <rect key="frame" x="43" y="16" width="80" height="80"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="80" id="7lV-hv-UMR"/>
+                            <constraint firstAttribute="width" secondItem="3Zs-7y-IYe" secondAttribute="height" multiplier="1:1" id="X2T-FR-y1w"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusV">
+                                <real key="value" value="40"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="CuongLV" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E2U-C7-S5S">
+                        <rect key="frame" x="20" y="103" width="126" height="19"/>
+                        <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="16"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="CuongLV" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aul-CF-Ft5">
+                        <rect key="frame" x="7" y="129" width="152" height="16.5"/>
+                        <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="14"/>
+                        <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LwK-Vf-Law">
+                        <rect key="frame" x="63" y="155.5" width="40" height="40"/>
+                        <color key="backgroundColor" red="0.46666666666666667" green="0.16470588235294117" blue="0.43137254901960786" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="40" id="CMP-au-JwT"/>
+                            <constraint firstAttribute="width" secondItem="LwK-Vf-Law" secondAttribute="height" multiplier="1:1" id="rO3-fS-R6f"/>
+                        </constraints>
+                        <inset key="imageEdgeInsets" minX="10" minY="10" maxX="10" maxY="10"/>
+                        <state key="normal" image="Unfriend">
+                            <color key="titleColor" red="0.46666666670000001" green="0.1647058824" blue="0.43137254899999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </state>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusV">
+                                <real key="value" value="20"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                        <connections>
+                            <action selector="unfriendBtn:" destination="PCL-cr-PBK" eventType="touchUpInside" id="zNL-wq-7Nm"/>
+                        </connections>
+                    </button>
+                </subviews>
+            </view>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="LwK-Vf-Law" firstAttribute="top" secondItem="aul-CF-Ft5" secondAttribute="bottom" constant="10" id="1Ad-qV-exY"/>
+                <constraint firstItem="3Zs-7y-IYe" firstAttribute="centerX" secondItem="PCL-cr-PBK" secondAttribute="centerX" id="EKw-rR-W6g"/>
+                <constraint firstItem="aul-CF-Ft5" firstAttribute="top" secondItem="E2U-C7-S5S" secondAttribute="bottom" constant="7" id="PYR-ot-sLY"/>
+                <constraint firstAttribute="trailing" secondItem="E2U-C7-S5S" secondAttribute="trailing" constant="20" id="YKx-Pl-6tt"/>
+                <constraint firstItem="E2U-C7-S5S" firstAttribute="leading" secondItem="PCL-cr-PBK" secondAttribute="leading" constant="20" id="ZEy-Ug-MGg"/>
+                <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="3Zs-7y-IYe" secondAttribute="trailing" constant="20" id="eKX-9J-9yC"/>
+                <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="LwK-Vf-Law" secondAttribute="bottom" constant="10" id="hSL-7u-qnI"/>
+                <constraint firstItem="E2U-C7-S5S" firstAttribute="top" secondItem="3Zs-7y-IYe" secondAttribute="bottom" constant="7" id="nAf-ss-u1L"/>
+                <constraint firstAttribute="trailing" secondItem="aul-CF-Ft5" secondAttribute="trailing" constant="7" id="pSl-u6-RNk"/>
+                <constraint firstItem="LwK-Vf-Law" firstAttribute="centerX" secondItem="E2U-C7-S5S" secondAttribute="centerX" id="prx-zM-k6N"/>
+                <constraint firstItem="aul-CF-Ft5" firstAttribute="leading" secondItem="PCL-cr-PBK" secondAttribute="leading" constant="7" id="uKE-LF-l8L"/>
+                <constraint firstItem="3Zs-7y-IYe" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="PCL-cr-PBK" secondAttribute="leading" constant="20" id="udY-Cc-b48"/>
+                <constraint firstItem="3Zs-7y-IYe" firstAttribute="top" secondItem="PCL-cr-PBK" secondAttribute="top" constant="16" id="wX5-8r-DMp"/>
+            </constraints>
+            <connections>
+                <outlet property="lblLastSeen" destination="aul-CF-Ft5" id="15O-lX-p3e"/>
+                <outlet property="profileImage" destination="3Zs-7y-IYe" id="94L-Td-1Pc"/>
+                <outlet property="unfriendBtn" destination="LwK-Vf-Law" id="hmi-c6-nKk"/>
+                <outlet property="usernameLabel" destination="E2U-C7-S5S" id="QCB-8d-Ezx"/>
+            </connections>
+            <point key="canvasLocation" x="386.95652173913044" y="48.883928571428569"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="Unfriend" width="36" height="36"/>
+        <image name="firstImage1" width="250" height="236.5"/>
+    </resources>
+</document>

@@ -1,0 +1,102 @@
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "1DS-wK-Zwd"; */
+"1DS-wK-Zwd.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "3TG-bs-Wet"; */
+"3TG-bs-Wet.text" = "Gender";
+
+/* Class = "UIButton"; normalTitle = "Skip Tutorial"; ObjectID = "3XV-r0-I9O"; */
+"3XV-r0-I9O.normalTitle" = "Skip Tutorial";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "7Em-F3-H5g"; */
+"7Em-F3-H5g.normalTitle" = "CLOSE";
+
+/* Class = "UIButton"; normalTitle = "Bank Transfer"; ObjectID = "7I6-EJ-FrE"; */
+"7I6-EJ-FrE.normalTitle" = "Bank Transfer";
+
+/* Class = "UILabel"; text = "Your Expiration date: "; ObjectID = "Aza-XV-F2Y"; */
+"Aza-XV-F2Y.text" = "Your Expiration date: ";
+
+/* Class = "UILabel"; text = "Are you sure you want to unblock this user ?"; ObjectID = "BgN-Nq-R77"; */
+"BgN-Nq-R77.text" = "Are you sure you want to unblock this user ?";
+
+/* Class = "UIButton"; normalTitle = "Default"; ObjectID = "IAV-X4-MSi"; */
+"IAV-X4-MSi.normalTitle" = "Default";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "JG1-SB-jGo"; */
+"JG1-SB-jGo.text" = "Language";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "JUP-Tb-cnv"; */
+"JUP-Tb-cnv.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "PNK-kS-iZR"; */
+"PNK-kS-iZR.normalTitle" = "NO";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "PUM-p0-LdS"; */
+"PUM-p0-LdS.normalTitle" = "Male";
+
+/* Class = "UILabel"; text = "If you like this person and keep in touch, Swipe Right"; ObjectID = "PkX-Ek-TkO"; */
+"PkX-Ek-TkO.text" = "If you like this person and keep in touch, Swipe Right";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "Rcg-fD-yoF"; */
+"Rcg-fD-yoF.text" = "Language";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "TdR-Is-Whh"; */
+"TdR-Is-Whh.normalTitle" = "Female";
+
+/* Class = "UILabel"; text = "Let's Easy"; ObjectID = "YGg-oz-QiY"; */
+"YGg-oz-QiY.text" = "Let's Easy";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "ZA3-ow-eZG"; */
+"ZA3-ow-eZG.normalTitle" = "CLOSE";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "ZJN-Zx-A08"; */
+"ZJN-Zx-A08.normalTitle" = "YES";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "bAw-vr-LoS"; */
+"bAw-vr-LoS.text" = "About";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "bG5-I6-N8N"; */
+"bG5-I6-N8N.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Security"; ObjectID = "cAQ-tL-KPr"; */
+"cAQ-tL-KPr.text" = "Security";
+
+/* Class = "UILabel"; text = "You are Premium User"; ObjectID = "eGT-4H-imD"; */
+"eGT-4H-imD.text" = "You are Premium User";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "fbh-pC-Cyz"; */
+"fbh-pC-Cyz.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "About me "; ObjectID = "gxm-hg-iNi"; */
+"gxm-hg-iNi.placeholder" = "About me ";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "h0H-Bg-C3k"; */
+"h0H-Bg-C3k.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Apple Pay"; ObjectID = "igN-SO-A1g"; */
+"igN-SO-A1g.normalTitle" = "Apple Pay";
+
+/* Class = "UILabel"; text = "Interest"; ObjectID = "ij4-FG-zkP"; */
+"ij4-FG-zkP.text" = "Interest";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "j0H-Ei-c2I"; */
+"j0H-Ei-c2I.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Credit Card"; ObjectID = "kjH-Z6-k9M"; */
+"kjH-Z6-k9M.normalTitle" = "Credit Card";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ppQ-iQ-mad"; */
+"ppQ-iQ-mad.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "Enter text a tag,then hit,"; ObjectID = "qKn-Mk-3je"; */
+"qKn-Mk-3je.placeholder" = "Enter text a tag,then hit,";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "qgs-9s-1dk"; */
+"qgs-9s-1dk.normalTitle" = "Skip";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "uot-52-Y5C"; */
+"uot-52-Y5C.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Unblock"; ObjectID = "xUP-kL-tWq"; */
+"xUP-kL-tWq.text" = "Unblock";

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-Regular.otf">
+            <string>Poppins-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="CommentTableViewCell" rowHeight="83" id="KGk-i7-Jjw" customClass="CommentTableViewCell" customModule="QuickDate" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="356" height="83"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="356" height="83"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="jq8-M2-jnH">
+                        <rect key="frame" x="16" y="10" width="30" height="30"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="jq8-M2-jnH" secondAttribute="height" multiplier="1:1" id="J1D-0q-zfn"/>
+                            <constraint firstAttribute="width" constant="30" id="jrN-4j-oCa"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusV">
+                                <real key="value" value="15"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Full name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4SK-Ih-aoO">
+                        <rect key="frame" x="54" y="10" width="286" height="18.5"/>
+                        <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="13"/>
+                        <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Comment" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="A6f-Ga-hFL">
+                        <rect key="frame" x="54" y="28.5" width="286" height="38.5"/>
+                        <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="13"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="4SK-Ih-aoO" firstAttribute="leading" secondItem="jq8-M2-jnH" secondAttribute="trailing" constant="8" id="EMB-rk-xWP"/>
+                    <constraint firstAttribute="bottom" secondItem="A6f-Ga-hFL" secondAttribute="bottom" constant="16" id="LEv-dk-MJ5"/>
+                    <constraint firstAttribute="trailing" secondItem="4SK-Ih-aoO" secondAttribute="trailing" constant="16" id="Raa-hm-zvM"/>
+                    <constraint firstItem="A6f-Ga-hFL" firstAttribute="leading" secondItem="4SK-Ih-aoO" secondAttribute="leading" id="Zje-Oh-jKL"/>
+                    <constraint firstItem="A6f-Ga-hFL" firstAttribute="top" secondItem="4SK-Ih-aoO" secondAttribute="bottom" id="o8S-Iy-BvP"/>
+                    <constraint firstItem="4SK-Ih-aoO" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="p6x-wz-469"/>
+                    <constraint firstItem="jq8-M2-jnH" firstAttribute="top" secondItem="4SK-Ih-aoO" secondAttribute="top" id="u2S-r7-3DQ"/>
+                    <constraint firstItem="jq8-M2-jnH" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="wMn-jk-7vz"/>
+                    <constraint firstItem="A6f-Ga-hFL" firstAttribute="trailing" secondItem="4SK-Ih-aoO" secondAttribute="trailing" id="wda-t4-mmI"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="commentLabel" destination="A6f-Ga-hFL" id="bDE-jn-ap6"/>
+                <outlet property="fullNameLabel" destination="4SK-Ih-aoO" id="e65-PQ-gaJ"/>
+                <outlet property="publisherImageView" destination="jq8-M2-jnH" id="gS7-M9-TvD"/>
+            </connections>
+            <point key="canvasLocation" x="-319" y="93"/>
+        </tableViewCell>
+    </objects>
+</document>

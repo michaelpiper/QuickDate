@@ -1,0 +1,1340 @@
+/* 
+ Localizable.strings
+ DeepSoundiOS
+ 
+ Created by Macbook Pro on 01/08/2019.
+ Copyright © 2019 Muhammad Haris Butt. All rights reserved.
+ */
+
+"Back" = "Geri";
+
+/* Trending */
+
+/* Class = "UITextField"; placeholder = "Religion"; ObjectID = "1V5-Sc-adF"; */
+"Religion" = "Din";
+
+/* Class = "UITextField"; placeholder = "Interest"; ObjectID = "2ZX-2f-QYr"; */
+"Interest" = "Faiz";
+
+/* Class = "UILabel"; text = "Who are you looking for?"; ObjectID = "5Jy-bx-kCc"; */
+"Who are you looking for?" = "Kimi arıyorsunuz?";
+"# Who are you looking for?" = "# Kimi arıyorsunuz?";
+
+/* Class = "UIButton"; normalTitle = "Reset filter"; ObjectID = "8g5-5l-Uqv"; */
+"RESET FILTERS" = "FİLTREYİ SIFIRLA";
+
+/* Class = "UILabel"; text = "Hot or Not"; ObjectID = "AW7-PC-5dC"; */
+"Hot or Not" = "Çekici mi değil mi";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "BHk-aE-5pe"; */
+"Location" = "Yer";
+
+/* Class = "UILabel"; text = "NearBy"; ObjectID = "Eu3-ys-1pL"; */
+"NearBy" = "NearBy";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "I9L-gX-45v"; */
+"Mesafe" = "Distance";
+
+/* Class = "UITextField"; placeholder = "smoke"; ObjectID = "Inw-E4-gxs"; */
+"Distance" = "Mesafe";
+
+/* Class = "UILabel"; text = "Miin"; ObjectID = "K3o-Fn-Hmm"; */
+"Miin" = "Miin";
+
+/* Class = "UITextField"; placeholder = "Language"; ObjectID = "MEV-2n-ppm"; */
+"Language" = "Dil";
+
+/* Class = "UITextField"; placeholder = "Pets"; ObjectID = "PJy-aI-wKq"; */
+"Pets" = "Evcil Hayvanlar";
+
+/* Class = "UIButton"; normalTitle = "BOYS"; ObjectID = "SFQ-ce-N7y"; */
+"BOYS" = "ERKEK";
+
+/* Class = "UITextField"; placeholder = "Education"; ObjectID = "Vkt-Lu-nrS"; */
+"Education" = "Eğitim";
+
+/* Class = "UINavigationItem"; title = "Hot or Not "; ObjectID = "W1f-KQ-dQp"; */
+"Hot or Not " = "Çekici mi değil mi ";
+
+/* Class = "UILabel"; text = "35 km"; ObjectID = "WaP-wd-1Sn"; */
+"35 km" = "35 km";
+
+/* Class = "UIButton"; normalTitle = "GIRLS"; ObjectID = "XA2-Ri-386"; */
+"GIRLS" = "KIZLAR";
+
+/* Class = "UILabel"; text = "Online Now"; ObjectID = "Xk7-hV-GcB"; */
+"Online Now" = "Çevrim İçi";
+
+/* Class = "UILabel"; text = "0 - 100"; ObjectID = "ZdM-jq-WIE"; */
+"0 - 100" = "0 - 100";
+
+/* Class = "UILabel"; text = "Max"; ObjectID = "ZjT-f5-x2k"; */
+"Max" = "Max";
+
+/* Class = "UITextField"; placeholder = "From Height"; ObjectID = "fMz-9e-2L1"; */
+"From Height" = "Bu Boydan";
+
+/* Class = "UIButton"; normalTitle = "BOTH"; ObjectID = "fW9-yX-pgn"; */
+"BOTH" = "HEPSİ";
+
+/* Class = "UILabel"; text = "There is no data to show"; ObjectID = "goT-Eg-uzd"; */
+"There is no data to show" = "Gösterilecek veri yok";
+
+/* Class = "UITextField"; placeholder = "Slim"; ObjectID = "hug-FN-5V1"; */
+"Slim" = "İnce";
+
+/* Class = "UITextField"; text = "Body"; ObjectID = "hug-FN-5V1"; */
+"Body" = "Vücut";
+
+/* Class = "UITextField"; placeholder = "Relationship"; ObjectID = "lS0-zI-phd"; */
+"Relationship" = "İlişki";
+
+/* Class = "UILabel"; text = "Filter"; ObjectID = "lso-pW-mRI"; */
+"Filter" = "Filtrele";
+
+/* Class = "UIButton"; normalTitle = "Apply Filter"; ObjectID = "lzy-4r-x7j"; */
+"Apply Filter" = "Filtreyi Uygula";
+
+/* Class = "UITextField"; placeholder = "Drink"; ObjectID = "nAe-EJ-vBH"; */
+"Drink" = "Drink";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "nR2-JH-KvO"; */
+"Age" = "İçmek";
+
+/* Class = "UITextField"; placeholder = "Ethnicity"; ObjectID = "q5S-CI-9ll"; */
+"Ethnicity" = "Etnik köken";
+
+/* Class = "UITextField"; placeholder = "To Height"; ObjectID = "vbH-Qz-IpG"; */
+"To Height" = "Bu Boya";
+
+
+/*Authentication*/
+
+"Login Successful..." = "Giriş Başarılı...";
+"Created an Account Successfully..." = "Başarılı bir şekilde hesap oluşturuldu...";
+"Something Wrong" = "Hata Alındı";
+"Could you please try again later?" = "Lütfen daha sonra dener misiniz?";
+
+/* Class = "UILabel"; text = "Please enter your email address. We will send you a link to reset password."; ObjectID = "0ZU-hh-g7k"; */
+"Please enter your email address. We will send you a link to reset password." = "Şifreyi sıfırlamak için size bir bağlantı göndereceğiz. Lütfen e-posta adresinizi giriniz.";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "4ZZ-rk-bhM"; */
+"Last Name" = "Soyad";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "4bH-yX-3pg"; */
+"Send" = "Gönder";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "5m3-kl-sje"; */
+"Register" = "Kayıt ol";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "9Gh-MY-3Wu"; */
+"Confirm Password" = "Şifreyi Onayla";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "9yz-hC-btf"; */
+"Continue" = "Devam et";
+
+/* Class = "UILabel"; text = "Verification"; ObjectID = "Ajb-bv-62D"; */
+"Verification" = "Doğrulama";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "CNs-If-QUH"; */
+" " = " ";
+
+/* Class = "UILabel"; text = "Flirt, Chat, and meet people around you."; ObjectID = "DTK-Xm-6By"; */
+"Flirt, Chat, and meet people around you." = "Flört et, sohbet et ve çevrenizdeki insanlarla tanışın.";
+
+/* Class = "UILabel"; text = "Forget Password"; ObjectID = "DvK-ru-hIP"; */
+"Forget Password" = "Şifre Sıfırla";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "E5A-Af-TZP"; */
+"Email" = "E-posta";
+
+/* Class = "UILabel"; text = "BY REGISTERING YOU AGREE TO OUR TERM OF SERVICE"; ObjectID = "EZf-sC-ulJ"; */
+"BY REGISTERING YOU AGREE TO OUR TERM OF SERVICE" = "KAYDOLARAK HİZMET ŞARTLARIMIZI KABUL ETMİŞ OLURSUNUZ";
+
+/* Class = "UILabel"; text = "ALREADY HAVE AN ACCOUNT?"; ObjectID = "Hmt-Ir-LAd"; */
+"ALREADY HAVE AN ACCOUNT?" = "ZATEN HESABINIZ VAR MI?";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "MTL-ZN-Wzk"; */
+"Sign In" = "Oturum aç";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "Mbj-tE-t74"; */
+"Sign in" = "Oturum aç";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "Nb0-QR-ols"; */
+"First Name" = "Ad";
+
+/* Class = "UIButton"; normalTitle = "NO, OTHER TIME"; ObjectID = "Nog-SF-qaU"; */
+"NO, OTHER TIME" = "HAYIR, DİĞER ZAMAN";
+
+"Sign in with Apple" = "Apple ile Giriş Yap";
+
+/* Class = "UIButton"; normalTitle = "Continue with Facebook"; ObjectID = "OIc-Sx-5xB"; */
+"Continue with Facebook" = "Facebook ile Devam Et";
+
+"Sign In with Google" = "Google ile Giriş Yap";
+
+/* Class = "UIButton"; normalTitle = "Login with WoWonder"; ObjectID = "Ox0-aF-i58"; */
+"Login with WoWonder" = "WoWonder ile Giriş Yap";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "QEw-GY-lQx"; */
+"Login" = "Oturum aç";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "QlU-DW-KtF"; */
+"Email" = "E-posta";
+
+/* Class = "UITextField"; placeholder = "Gender"; ObjectID = "RPJ-Gw-HtH"; */
+"Gender" = "Cinsiyet";
+
+/* Class = "UIButton"; normalTitle = "CREATE AN ACCOUNT"; ObjectID = "Up8-vL-feJ"; */
+"CREATE AN ACCOUNT" = "HESAP OLUŞTUR";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "UyV-EG-ZC7"; */
+" " = " ";
+
+/* Class = "UILabel"; text = "DON'T HAVE AN ACCOUNT?"; ObjectID = "X6a-w3-V07"; */
+"DON'T HAVE AN ACCOUNT?" = "ÜYELİĞİNİZ YOK MU?";
+
+/* Class = "UIButton"; normalTitle = "Continue with Facebook"; ObjectID = "XWH-Bv-xqU"; */
+"Continue with Facebook" = "Facebook ile devam";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "Y7u-hw-MT4"; */
+"SIGN IN" = "OTURUM AÇ";
+
+/* Class = "UILabel"; text = "Please type email of account you want to recover. You will get 4-digits recovery code"; ObjectID = "YUA-qd-H7U"; */
+"Please type email of account you want to recover. You will get 4-digits recovery code" = "Lütfen kurtarmak istediğiniz hesabın e-postasını yazın. 4 basamaklı kurtarma kodunu alacaksınız";
+
+/* Class = "UILabel"; text = "BY REGISTERING YOU AGREE TO OUR TERMS OF SERVICE"; ObjectID = "dKN-fb-YfF"; */
+"BY REGISTERING YOU AGREE TO OUR TERMS OF SERVICE" = "KAYDOLARAK HİZMET ŞARTLARIMIZI KABUL ETMİŞ OLURSUNUZ";
+
+/* Class = "UILabel"; text = "Swipe Cards"; ObjectID = "dtd-3S-WOa"; */
+"Swipe Cards" = "Kaydırma Kartları";
+
+/* Class = "UILabel"; text = "Verify your Number"; ObjectID = "e52-Xy-aiD"; */
+"Verify your Number" = "Numaranızı Doğrulayın";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "gQp-ko-2uc"; */
+"Get Started" = "Başlamak";
+
+/* Class = "UILabel"; text = "To log in, you need to verify  your identity."; ObjectID = "klF-X1-7JW"; */
+"To log in, you need to verify  your identity." = "Giriş yapmak için kimliğinizi doğrulamanız gerekir.";
+
+/* Class = "UITextField"; placeholder = "Passsword"; ObjectID = "kqj-hz-pf5"; */
+"Passsword" = "Parola";
+
+/* Class = "UILabel"; text = "Please enter your mobile number to receive a verification code. Carrier rates may apply"; ObjectID = "l9k-fe-UhY"; */
+"Please enter your mobile number to receive a verification code. Carrier rates may apply" = "Doğrulama kodu almak için lütfen cep telefonu numaranızı girin. Operatör ücretleri geçerli olabilir";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "lOw-aH-HlN"; */
+"Password" = "Parola";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "lv7-St-fui"; */
+"Username" = "Kullanıcı Adı";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "nWR-c0-w8b"; */
+"Send" = "Gönder";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "o5G-Ii-1Se"; */
+"Sign In" = "Oturum aç";
+
+/* Class = "UILabel"; text = "Swipe cards right and left if you like or dislike someone"; ObjectID = "pxz-fx-7Cp"; */
+"Swipe cards right and left if you like or dislike someone" = "Birini beğenir veya beğenmezseniz kartları sağa ve sola kaydırın";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "qVQ-St-DMA"; */
+"REGISTER" = "KAYIT OL";
+
+/* Class = "UIButton"; normalTitle = "VERIFY "; ObjectID = "re5-vn-PVs"; */
+"VERIFY " = "DOĞRULAYIN ";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "snG-as-TxW"; */
+"Sign In" = "Oturum aç";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "t7d-Ya-Ym2"; */
+"Forgot Password?" = "Parolanızı mı unuttunuz?";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "uIh-70-btL"; */
+"Phone Number" = "Telefon numarası";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "wNQ-lK-pZA"; */
+"Username" = "Kullanıcı adı";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "wWP-2L-O8f"; */
+"Password" = "Parola";
+
+/* Class = "UILabel"; text = "We have sent you the confirmation code to your email address."; ObjectID = "xsj-hB-o3v"; */
+"We have sent you the confirmation code to your email address." = "Size onay kodunu e-posta adresinize gönderdik.";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "yIa-Zs-cdp"; */
+"Email" = "E-posta";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "ywL-rq-PZp"; */
+"Email" = "E-posta";
+
+/* Class = "UILabel"; text = "Swipe right to like someone and if you both like each other? Its a match."; ObjectID = "z7W-I0-jHA"; */
+"Swipe right to like someone and if you both like each other? Its a match." = "Birini beğenmek için sağa kaydırın ve ikiniz de birbirinizden hoşlanıyorsanız? Bu bir eşleşme.";
+
+/* Class = "UITextField"; placeholder = "Add code number "; ObjectID = "z9B-ej-3DW"; */
+"Add code number " = "Kod numarası ekle";
+
+
+/*Main*/
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "3nt-4d-rPN"; */
+"Item" = "Öğe";
+
+/* Class = "UILabel"; text = "No Notifications Yet"; ObjectID = "HLS-yr-dFh"; */
+"No Notifications Yet" = "Henüz Bildirim Yok";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "KDh-yA-nZR"; */
+"Item" = "Öğe";
+
+/* Class = "UIButton"; normalTitle = "Get x3 Matches"; ObjectID = "KvH-lZ-pnp"; */
+"Get x3 Matches" = "X3 Eşleşme Al";
+
+/* Class = "UILabel"; text = "Your Popularity"; ObjectID = "LHR-mo-bbc"; */
+"Your Popularity" = "Popülerliğiniz";
+
+/* Class = "UILabel"; text = "35 Credits"; ObjectID = "NlM-j0-mbm"; */
+"35 Credits" = "35 Kredi";
+
+/* Class = "UIButton"; normalTitle = "Get x4 Likes"; ObjectID = "Qfu-2k-eAY"; */
+"Get x4 Likes" = "X4 Beğenme Alın";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Sqy-K4-q0V"; */
+"Item" = "Öğe";
+
+/* Class = "UILabel"; text = "25 Credits"; ObjectID = "W0o-IE-ukQ"; */
+"25 Credits" = "25 Kredi";
+
+/* Class = "UILabel"; text = "Promote your profile by get more visits, for 5 minutes"; ObjectID = "WRt-Er-B5K"; */
+"Promote your profile by get more visits, for 5 minutes" = "5 dakika boyunca daha fazla ziyaret alarak profilinizi tanıtın";
+
+/* Class = "UILabel"; text = "We will display once you get your first activity here "; ObjectID = "XDs-6r-Cig"; */
+"We will display once you get your first activity here " = "Burada ilk etkinliğinizi gerçekleştirdiğinizde göstereceğiz";
+
+/* Class = "UILabel"; text = "Show more and rise up at the same time, for 4 minutes"; ObjectID = "Y08-V3-0oJ"; */
+"Show more and rise up at the same time, for 4 minutes" = "Daha fazlasını göster ve aynı anda 4 dakika yüksel";
+
+/* Class = "UILabel"; text = "We will display once you get your first activity here "; ObjectID = "Zws-zb-gAg"; */
+"We will display once you get your first activity here " = "Burada ilk etkinliğinizi gerçekleştirdiğinizde göstereceğiz";
+
+/* Class = "UILabel"; text = "Tell everyone you're online and be seen by users who want to chat, for 5 minutes"; ObjectID = "aEb-OV-QrZ"; */
+"Tell everyone you're online and be seen by users who want to chat, for 5 minutes" = "Çevrimiçi olduğunuzu herkese söyleyin ve sohbet etmek isteyen kullanıcılar tarafından 5 dakika boyunca görünün";
+
+/* Class = "UINavigationItem"; title = "QuickDate"; ObjectID = "aW8-XI-oT2"; */
+"QuickDate" = "Rosmance";
+
+/* Class = "UILabel"; text = "QuickDate"; ObjectID = "b0L-Tf-b9o"; */
+"QuickDate" = "Rosmance";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "bOE-Wy-jqk"; */
+"Notifications" = "Bildirimler";
+
+/* Class = "UILabel"; text = "No Notifications Yet"; ObjectID = "fZN-mP-yYx"; */
+"No Notifications Yet" = "Henüz Bildirim Yok";
+
+/* Class = "UILabel"; text = "No Notifications Yet"; ObjectID = "kaP-mu-o2p"; */
+"No Notifications Yet" = "Henüz Bildirim Yok";
+
+/* Class = "UILabel"; text = "45 Credits"; ObjectID = "mpF-Ja-rRK"; */
+"45 Credits" = "45 Kredi";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "nJn-9R-RDJ"; */
+"Item" = "Öğe";
+
+/* Class = "UILabel"; text = "No Notifications Yet"; ObjectID = "qS2-im-ghc"; */
+"No Notifications Yet" = "Henüz Bildirim Yok";
+
+/* Class = "UILabel"; text = "There are no messages"; ObjectID = "qzZ-j7-oq4"; */
+"There are no messages" = "Mesaj yok";
+
+/* Class = "UILabel"; text = "Very Low"; ObjectID = "sL7-3e-HER"; */
+"Very Low" = "Çok düşük";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "tGc-w4-vj5"; */
+"Item" = "Öğe";
+
+/* Class = "UILabel"; text = "We will display once you get your first activity here "; ObjectID = "vM4-Ps-IFY"; */
+"We will display once you get your first activity here " = "Burada ilk etkinliğinizi gerçekleştirdiğinizde göstereceğiz";
+
+/* Class = "UIButton"; normalTitle = "Get x10 Visits"; ObjectID = "vpv-1t-xRc"; */
+"Get x10 Visits" = "X10 Ziyaret Alın";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "wQ9-oG-Zd5"; */
+"Item" = "Öğe";
+
+/* Class = "UILabel"; text = "Chats"; ObjectID = "xNw-Gy-Wt7"; */
+"Chats" = "Sohbetler";
+
+/* Class = "UILabel"; text = "We will display once you get your first activity here "; ObjectID = "ySQ-hQ-u4f"; */
+"We will display once you get your first activity here " = "Burada ilk etkinliğinizi gerçekleştirdiğinizde göstereceğiz";
+
+
+/*Chat*/
+
+
+/* Class = "UILabel"; text = "CuongLV"; ObjectID = "Aeo-Wq-CVn"; */
+"CuongLV" = "CuongLV";
+
+/* Class = "UITextField"; placeholder = "Write your message"; ObjectID = "SsL-d1-ShJ"; */
+"Write your message" = "Mesajınızı yazın";
+
+/* Class = "UILabel"; text = "Last seen 2 months ago"; ObjectID = "erD-Hn-Sr2"; */
+"Last seen 2 months ago" = "En son 2 ay önce görüldü";
+
+/*popups*/
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "1DS-wK-Zwd"; */
+"Submit" = "Sunmak";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "3TG-bs-Wet"; */
+"Gender" = "Cinsiyet";
+
+/* Class = "UIButton"; normalTitle = "Skip Tutorial"; ObjectID = "3XV-r0-I9O"; */
+"Skip Tutorial" = "Eğiticiyi Atla";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "7Em-F3-H5g"; */
+"CLOSE" = "KAPAT";
+
+/* Class = "UIButton"; normalTitle = "Bank Transfer"; ObjectID = "7I6-EJ-FrE"; */
+"Bank Transfer" = "Banka transferi";
+
+/* Class = "UILabel"; text = "Your Expiration date: "; ObjectID = "Aza-XV-F2Y"; */
+"Your Expiration date: " = "Son Kullanma tarihiniz:";
+
+/* Class = "UIButton"; normalTitle = "Default"; ObjectID = "IAV-X4-MSi"; */
+"Default" = "Varsayılan";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "JG1-SB-jGo"; */
+"Language" = "Dil";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "JUP-Tb-cnv"; */
+"Cancel" = "İptal";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "PNK-kS-iZR"; */
+"NO" = "HAYIR";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "PUM-p0-LdS"; */
+"Male" = "Erkek";
+
+/* Class = "UILabel"; text = "If you like this person and keep in touch, Swipe Right"; ObjectID = "PkX-Ek-TkO"; */
+"If you like this person and keep in touch, Swipe Right" = "Bu kişiyi beğendiyseniz ve iletişim halinde kalırsanız, Sağa Kaydırın";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "Rcg-fD-yoF"; */
+"Language" = "Dil";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "TdR-Is-Whh"; */
+"Female" = "Kadın";
+
+/* Class = "UILabel"; text = "Let's Easy"; ObjectID = "YGg-oz-QiY"; */
+"Let's Easy" = "Hadi Sakinleşelim";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "ZA3-ow-eZG"; */
+"CLOSE" = "KAPAT";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "ZJN-Zx-A08"; */
+"YES" = "EVET";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "bAw-vr-LoS"; */
+"About" = "hakkında";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "bG5-I6-N8N"; */
+"Cancel" = "İptal";
+
+/* Class = "UILabel"; text = "Security"; ObjectID = "cAQ-tL-KPr"; */
+"Security" = "Güvenlik";
+
+/* Class = "UILabel"; text = "You are Premium User"; ObjectID = "eGT-4H-imD"; */
+"You are Premium User" = "Siz Premium Kullanıcısınız";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "fbh-pC-Cyz"; */
+"Cancel" = "İptal";
+
+/* Class = "UITextField"; placeholder = "About me "; ObjectID = "gxm-hg-iNi"; */
+"About me " = "Benim hakkımda ";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "h0H-Bg-C3k"; */
+"OK" = "Tamam";
+
+/* Class = "UIButton"; normalTitle = "Apple Pay"; ObjectID = "igN-SO-A1g"; */
+"Apple Pay" = "Apple Pay";
+
+/* Class = "UILabel"; text = "Interest"; ObjectID = "ij4-FG-zkP"; */
+"Interest" = "Faiz";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "j0H-Ei-c2I"; */
+"Submit" = "Sunmak";
+
+/* Class = "UIButton"; normalTitle = "Credit Card"; ObjectID = "kjH-Z6-k9M"; */
+"Credit Card" = "Kredi kartı";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ppQ-iQ-mad"; */
+"Cancel" = "İptal";
+
+/* Class = "UITextField"; placeholder = "Enter text a tag,then hit,"; ObjectID = "qKn-Mk-3je"; */
+"Enter text a tag,then hit," = "Bir etiket girin ve ardından vurun";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "qgs-9s-1dk"; */
+"Skip" = "Atla";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "uot-52-Y5C"; */
+"Next" = "Sonraki";
+
+/* Class = "UILabel"; text = "Unblock"; ObjectID = "xUP-kL-tWq"; */
+"Unblock" = "engeli kaldırmak";
+
+
+/*Blogs*/
+
+
+/* Class = "UILabel"; text = "Explore Articles"; ObjectID = "M5K-o0-QNe"; */
+"Explore Articles" = "Makaleleri Keşfedin";
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "gp1-AJ-S0m"; */
+"Share" = "Paylaş";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "jAk-AY-dX3"; */
+"Save" = "Kayıt etmek";
+
+/*Calls*/
+
+/* Class = "UIButton"; normalTitle = "Connect"; ObjectID = "Itl-2f-4xi"; */
+"Connect" = "Bağlan";
+
+/* Class = "UIButton"; normalTitle = "Disconnect"; ObjectID = "Krq-Rh-ETb"; */
+"Disconnect" = "Bağlantıyı kes";
+
+/* Class = "UIButton"; normalTitle = "Disconnect"; ObjectID = "LT3-yL-pUm"; */
+"Disconnect" = "Bağlantıyı kes";
+
+/* Class = "UILabel"; text = "TwilioVideo APIs"; ObjectID = "Lne-Ec-G4R"; */
+"TwilioVideo APIs" = "TwilioVideo APIs";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "O4e-FE-ToP"; */
+"Full Name" = "Ad Soyad";
+
+/* Class = "UIButton"; normalTitle = "Connect"; ObjectID = "OEK-e0-Hi3"; */
+"Connect" = "Bağlan";
+
+/* Class = "UILabel"; text = "Room name "; ObjectID = "Q6S-hD-KBQ"; */
+"Room name " = "Oda ismi ";
+
+/* Class = "UIButton"; normalTitle = "Mute"; ObjectID = "Xbg-m4-ul0"; */
+"Mute" = "Sessiz";
+
+/* Class = "UILabel"; text = "Room:"; ObjectID = "nJ2-rg-Gq3"; */
+"Room:" = "Oda:";
+
+/* Class = "UILabel"; text = "Calling"; ObjectID = "o9N-uy-vh8"; */
+"Calling" = "Aranıyor";
+
+/* Class = "UILabel"; text = "Room:"; ObjectID = "wwq-z2-kUj"; */
+"Room:" = "Oda:";
+
+/*Credit*/
+
+/* Class = "UILabel"; text = "Expire"; ObjectID = "0tg-4U-fFl"; */
+"Expire" = "Son kullanma tarihi";
+
+/* Class = "UITextField"; placeholder = "Enter your card number"; ObjectID = "2EQ-8C-zdo"; */
+"Enter your card number" = "Kart numaranızı girin";
+
+/* Class = "UILabel"; text = "Routing code"; ObjectID = "2oR-kL-VFZ"; */
+"Routing code" = "Yönlendirme kodu";
+
+/* Class = "UILabel"; text = "**** **** **** ****"; ObjectID = "3f4-8z-Efq"; */
+"**** **** **** ****" = "**** **** **** ****";
+
+/* Class = "UILabel"; text = "Bank Transfer"; ObjectID = "5xU-EZ-8nj"; */
+"Bank Transfer" = "Banka transferi";
+
+/* Class = "UILabel"; text = "Note:"; ObjectID = "6C6-Hg-Nd3"; */
+"Note:" = "Note:";
+
+/* Class = "UIButton"; normalTitle = "Select Picture"; ObjectID = "6Yh-Rd-ixg"; */
+"Select Picture" = "Resmi Seç";
+
+/* Class = "UILabel"; text = "Turkey"; ObjectID = "C6S-zz-fXx"; */
+"Turkey" = "Türkiye";
+
+/* Class = "UILabel"; text = "Get discount when buy boost me"; ObjectID = "EHE-Lq-5lf"; */
+"Get discount when buy boost me" = "Satın alırken indirim alın beni güçlendir";
+
+/* Class = "UILabel"; text = "MM/YY"; ObjectID = "GA4-dc-sxT"; */
+"MM/YY" = "AA / YY";
+
+/* Class = "UILabel"; text = "Display on top in random users"; ObjectID = "KJf-Gu-qwa"; */
+"Display on top in random users" = "Rastgele kullanıcılarda en üstte göster";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "NAp-V8-KfT"; */
+"Send" = "Gönder";
+
+/* Class = "UIButton"; normalTitle = "Skip Premium"; ObjectID = "OAH-xI-2qI"; */
+"Skip Premium" = "Premium Atla";
+
+/* Class = "UILabel"; text = "Activating Premium will help you meet more people, faster."; ObjectID = "Ot5-qg-BnH"; */
+"Activating Premium will help you meet more people, faster." = "Premium'u etkinleştirmek, daha fazla kişiyle daha hızlı tanışmanıza yardımcı olacaktır.";
+
+/* Class = "UILabel"; text = "See like notifications"; ObjectID = "R5X-rn-i6X"; */
+"See like notifications" = "Benzer bildirimleri görün";
+
+/* Class = "UILabel"; text = "Expire"; ObjectID = "RDL-Dx-Hgs"; */
+"Expire" = "Son kullanma tarihi";
+
+/* Class = "UITextView"; text = "Please transfer the amount of $8 to this bank account to purchase Weekly Plan Premium Membership"; ObjectID = "SOy-Qm-czr"; */
+"Please transfer the amount of $8 to this bank account to purchase Weekly Plan Premium Membership" = "Haftalık Plan Premium Üyeliği satın almak için lütfen bu banka hesabına 8$ 'ı aktarın";
+
+/* Class = "UILabel"; text = "See more stickers on chat"; ObjectID = "Syj-U9-WQq"; */
+"See more stickers on chat" = "Sohbette daha fazla çıkartma görün";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "Uas-Ue-uBd"; */
+"Country" = "Ülke";
+
+/* Class = "UILabel"; text = "Display first in find matches"; ObjectID = "YPN-od-mgf"; */
+"Display first in find matches" = "Eşleşmeleri bulmada ilk önce göster";
+
+/* Class = "UITextField"; placeholder = "MMYY"; ObjectID = "ZB0-gk-bl5"; */
+"MMYY" = "MMYY";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "c6y-50-Lq0"; */
+"Continue" = "Devam et";
+
+/* Class = "UILabel"; text = "Upgrade To Premium"; ObjectID = "cKL-VX-mKJ"; */
+"Upgrade To Premium" = "Premiuma yükselt";
+
+/* Class = "UILabel"; text = "**** **** **** ****"; ObjectID = "fnA-YJ-Yly"; */
+"**** **** **** ****" = "**** **** **** ****";
+
+/* Class = "UILabel"; text = "Show in Premium bar"; ObjectID = "gQh-DL-Khd"; */
+"Show in Premium bar" = "Premium çubuğunda göster";
+
+/* Class = "UILabel"; text = "Credit Card"; ObjectID = "gRj-VK-0An"; */
+"Credit Card" = "Kredi kartı";
+
+/* Class = "UILabel"; text = "Account name"; ObjectID = "goZ-I4-tB0"; */
+"Account name" = "Hesap adı";
+
+/* Class = "UITextView"; text = "In order to confirm the bank tranfer, you will need to upload a receipt or take a screenshot of your transfer within 1 day from your payment date. If a bank transfer is made but no receipt is uploaded within this period, your order will be cancelled. We will verify and confirm your receipt within 3 working days from the date you upload it."; ObjectID = "kzX-aK-82q"; */
+"In order to confirm the bank tranfer, you will need to upload a receipt or take a screenshot of your transfer within 1 day from your payment date. If a bank transfer is made but no receipt is uploaded within this period, your order will be cancelled. We will verify and confirm your receipt within 3 working days from the date you upload it." = "Banka havalesini onaylamak için, ödeme tarihinizden itibaren 1 gün içinde bir makbuz yüklemeniz veya havalenizin ekran görüntüsünü almanız gerekir. Banka havalesi yapılırsa ancak bu süre içinde dekont yüklenmezse, siparişiniz iptal edildi. Makbuzunuzu, yüklediğiniz tarihten itibaren 3 iş günü içinde doğrulayıp onaylayacağız. ";
+
+/* Class = "UILabel"; text = "Account Number / IBAN"; ObjectID = "lOt-WG-NqA"; */
+"Account Number / IBAN" = "Hesap Numarası / IBAN";
+
+/* Class = "UILabel"; text = "MM/YY"; ObjectID = "lPb-78-y8z"; */
+"MM/YY" = "MM/YY";
+
+/* Class = "UILabel"; text = "Antoian Kordiyal"; ObjectID = "oB4-CF-0Vm"; */
+"Antoian Kordiyal" = "Antoian Kordiyal";
+
+/* Class = "UITextField"; placeholder = "CVV"; ObjectID = "rZC-L7-6G3"; */
+"CVV" = "CVV";
+
+/* Class = "UILabel"; text = "4796824372433055"; ObjectID = "uzy-Xr-qpG"; */
+"4796824372433055" = "4796824372433055";
+
+/* Class = "UILabel"; text = "TGBATRISXXX"; ObjectID = "y8O-92-ZJZ"; */
+"TGBATRISXXX" = "TGBATRISXXX";
+
+/*Settings*/
+
+
+/* Class = "UILabel"; text = "Song"; ObjectID = "0Jo-yk-cdV"; */
+"Song" = "Şarkı";
+
+/* Class = "UITextField"; placeholder = "Website"; ObjectID = "0QO-3d-cuG"; */
+"Website" = "İnternet sitesi";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "1cZ-x2-WNz"; */
+"SAVE" = "KAYIT ETMEK";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "2B4-Ow-eue"; */
+"My Account" = "Hesabım";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "2Jm-u1-GOx"; */
+"Password" = "Parola";
+
+/* Class = "UILabel"; text = "My Affliates"; ObjectID = "2P4-gH-Cm5"; */
+"My Affliates" = "Bağlı Kuruluşlarım";
+
+/* Class = "UITextField"; placeholder = "Pet"; ObjectID = "2UG-76-xrK"; */
+"Pet" = "Evcil Hayvan";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "2Wa-Wd-Lze"; */
+"Change Password" = "Şifre değiştir";
+
+/* Class = "UITextField"; placeholder = "Song"; ObjectID = "2bh-yQ-d1C"; */
+"Song" = "SŞarkıong";
+
+/* Class = "UITextField"; placeholder = "Current Password"; ObjectID = "2l5-6h-E3h"; */
+"Current Password" = "Şimdiki Şifre";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "4Dc-DQ-ril"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "4Mr-Xt-HdM"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "4SF-YI-grb"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "4tP-dv-QYX"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Earn upto $ for each user your refer to us!"; ObjectID = "5Le-Vg-cKO"; */
+"Earn upto $ for each user your refer to us!" = "Bize yönlendirdiğiniz her kullanıcı için $ 'a kadar kazanın!";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "5ng-qU-5ut"; */
+"Phone Number" = "Telefon numarası";
+
+/* Class = "UILabel"; text = "People i Liked"; ObjectID = "6Al-tX-QjO"; */
+"People i Liked" = "Sevdiğim Kişiler";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "6ZB-M8-gFZ"; */
+"-------" = "-------";
+
+/* Class = "UITextField"; placeholder = "smoke"; ObjectID = "6bE-pk-2aX"; */
+"Smoke" = "Sigara";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "7qp-Zf-tA9"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Preferred Language"; ObjectID = "8Hw-lP-gKz"; */
+"Preferred Language" = "Tercih edilen dil";
+
+/* Class = "UILabel"; text = "Favorite Info"; ObjectID = "8t5-WS-hbp"; */
+"Favorite Info" = "Favori Bilgiler";
+
+/* Class = "UILabel"; text = "MY BALANCE"; ObjectID = "9Sx-KV-H83"; */
+"MY BALANCE" = "BENİM DENGEM";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "9t3-Jl-Jf8"; */
+"City" = "Kent";
+
+/* Class = "UILabel"; text = "This is something about me"; ObjectID = "AXx-8x-93C"; */
+"This is something about me" = "Bu benimle ilgili bir şey";
+
+/* Class = "UILabel"; text = "Relationship Status"; ObjectID = "Akf-s4-b4P"; */
+"Relationship Status" = "İlişki durumu";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "B9m-DP-xAL"; */
+"Birthday" = "Doğum Günü";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "C3M-C7-7sV"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Social Links"; ObjectID = "C7J-VZ-rkS"; */
+"Social Links" = "Sosyal Bağlantılar";
+
+/* Class = "UILabel"; text = "Hair Color"; ObjectID = "CbR-tg-SYz"; */
+"Hair Color" = "Saç rengi";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "Cdk-Z5-zpB"; */
+"Color" = "Renk";
+
+/* Class = "UITextField"; placeholder = "Color"; ObjectID = "Cxq-kX-I6A"; */
+"Color" = "Renk";
+
+/* Class = "UILabel"; text = "Edit Profile Info"; ObjectID = "CzM-K3-vo6"; */
+"Edit Profile Info" = "Profil Bilgilerini Düzenle";
+
+/* Class = "UITextField"; placeholder = "Character"; ObjectID = "DFF-B9-9gs"; */
+"Character" = "Karakter";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "DfB-6g-s5a"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Session"; ObjectID = "Do8-vU-zjT"; */
+"Session" = "Oturum";
+
+/* Class = "UITextField"; placeholder = "work status"; ObjectID = "E7M-ZI-Wjg"; */
+"work status" = "iş durumu";
+
+/* Class = "UILabel"; text = "Blocked Users"; ObjectID = "EQL-k5-O4l"; */
+"Blocked Users" = "Engellenmiş kullanıcılar";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "EQT-jX-cPZ"; */
+"New Password" = "Yeni Şifre";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Eoc-Gd-P4X"; */
+"Name" = "İsim";
+
+/* Class = "UITextField"; placeholder = "Birthday"; ObjectID = "Eww-97-huc"; */
+"Birthday" = "Doğum günü";
+
+/* Class = "UITextField"; placeholder = "Facebook"; ObjectID = "F7c-mx-fQt"; */
+"Facebook" = "Facebook";
+
+/* Class = "UILabel"; text = "Relationship Status"; ObjectID = "GEm-3P-KWD"; */
+"Relationship Status" = "İlişki durumu";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "GLt-ot-wOh"; */
+"Gender" = "Cinsiyet";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "GPq-23-FC1"; */
+"-------" = "-------";
+
+/* Class = "UITextField"; placeholder = "Height"; ObjectID = "GUy-JO-mCk"; */
+"Height" = "Yükseklik";
+
+/* Class = "UITextField"; placeholder = "Twitter"; ObjectID = "GgE-RZ-RJT"; */
+"Twitter" = "Twitter";
+
+/* Class = "UITextField"; placeholder = "Education"; ObjectID = "Ggc-3g-5dP"; */
+"Education" = "Eğitim";
+
+/* Class = "UITextField"; placeholder = "Movie"; ObjectID = "GhH-dI-tTt"; */
+"Movie" = "Film";
+
+/* Class = "UILabel"; text = "Hobby"; ObjectID = "IJh-HK-s7i"; */
+"Hobby" = "Hobi";
+
+/* Class = "UILabel"; text = "Black"; ObjectID = "IQO-Iq-glN"; */
+"Black" = "Siyah";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "Ia9-hO-POr"; */
+"Location" = "Konum";
+
+/* Class = "UILabel"; text = "3 cm"; ObjectID = "Ie1-jA-bGc"; */
+"3 cm" = "3 cm";
+
+/* Class = "UILabel"; text = "About Me"; ObjectID = "ItX-p9-TG6"; */
+"About Me" = "Benim hakkımda";
+
+/* Class = "UILabel"; text = "Looks"; ObjectID = "JfX-Av-Z8E"; */
+"Looks" = "Görünüyor";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "JgS-P3-XZz"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Character"; ObjectID = "K2M-26-ZoJ"; */
+"Character" = "Karakter";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "L4G-6f-LdS"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Children"; ObjectID = "LEC-zo-rCn"; */
+"Children" = "Çocuk";
+
+/* Class = "UITextField"; placeholder = "PayPal E-mail"; ObjectID = "LJ4-i1-Mka"; */
+"PayPal E-mail" = "PayPal E-postası";
+
+/* Class = "UITextField"; placeholder = "Music"; ObjectID = "LWg-zG-8W9"; */
+"Music" = "Müzik";
+
+/* Class = "UITextField"; placeholder = "Dish"; ObjectID = "LkI-fn-It5"; */
+"Dish" = "Tabak";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "MtB-Ih-gFB"; */
+"City" = "Kent";
+
+/* Class = "UITextField"; placeholder = "Car"; ObjectID = "O19-Q1-Xg1"; */
+"Car" = "Araba";
+
+/* Class = "UILabel"; text = "Ethnicity"; ObjectID = "OyP-FW-zOX"; */
+"Ethnicity" = "Etnik köken";
+
+/* Class = "UILabel"; text = "Book"; ObjectID = "P3z-b4-QRC"; */
+"Book" = "Kitap";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "P5S-1I-V8b"; */
+"Email" = "E-posta";
+
+/* Class = "UILabel"; text = "$0"; ObjectID = "Pd8-gq-hoe"; */
+"$0" = "$0";
+
+/* Class = "UIButton"; normalTitle = "SAVE PASSWORD"; ObjectID = "QNN-1G-WQ6"; */
+"SAVE PASSWORD" = "ŞİFREYİ KAYDET";
+
+/* Class = "UITextField"; placeholder = "Travel"; ObjectID = "Qhb-EY-DbO"; */
+"Travel" = "Seyahat";
+
+/* Class = "UILabel"; text = "Personality"; ObjectID = "Rum-L9-NfZ"; */
+"Personality" = "Kişilik";
+
+/* Class = "UITextField"; placeholder = "Google Plus"; ObjectID = "RyJ-db-fi8"; */
+"Google Plus" = "Google artı";
+
+/* Class = "UILabel"; text = "I live with"; ObjectID = "Sb3-cQ-eqM"; */
+"I live with" = "İle yaşıyorum";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "TJE-er-Elf"; */
+"Amount" = "Miktar";
+
+/* Class = "UILabel"; text = "There is no liked User"; ObjectID = "Tdd-dK-XlV"; */
+"There is no liked User" = "Beğenilen Kullanıcı yok";
+
+/* Class = "UITextField"; placeholder = "Children"; ObjectID = "Tqz-OV-6H2"; */
+"Children" = "Çocuk";
+
+/* Class = "UILabel"; text = "Profile Info"; ObjectID = "Trt-3y-Npa"; */
+"Profile Info" = "Profil bilgisi";
+
+/* Class = "UILabel"; text = "If you forgot your password, you can reset it from here."; ObjectID = "Tzd-Pl-yUb"; */
+"If you forgot your password, you can reset it from here." = "Şifrenizi unuttuysanız, buradan sıfırlayabilirsiniz.";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "Uf2-SB-JbA"; */
+"Birthday" = "Doğum günü";
+
+/* Class = "UITextField"; placeholder = "Body"; ObjectID = "UvJ-uO-hVV"; */
+"Body" = "Vücut";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "VML-Rx-Gz6"; */
+"Country" = "Ülke";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "W3u-5c-Ibd"; */
+"Save" = "Kayıt etmek";
+
+/* Class = "UILabel"; text = "Withdrawals"; ObjectID = "WET-VL-b5P"; */
+"Withdrawals" = "Para çekme";
+
+/* Class = "UIButton"; normalTitle = "Share to"; ObjectID = "WJn-M8-YGo"; */
+"Share to" = "Paylaş";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "Wi2-4Q-bEN"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Work Status"; ObjectID = "WiW-sL-Icq"; */
+"Work Status" = "İş durumu";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "XJF-pO-rqp"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Life Style Info"; ObjectID = "XMu-Rs-CDo"; */
+"Life Style Info" = "Yaşam Tarzı Bilgisi";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "XfT-Lg-k4U"; */
+"Help" = "Yardım";
+
+/* Class = "UILabel"; text = "Favourites"; ObjectID = "Z9z-ej-oYD"; */
+"Favourites" = "Favoriler";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "ZHR-85-dBr"; */
+"SAVE" = "KAYIT ETMEK";
+
+/* Class = "UITextField"; placeholder = "LinkedIn"; ObjectID = "Zg0-W1-vNi"; */
+"LinkedIn" = "LinkedIn";
+
+/* Class = "UITextField"; placeholder = "Sport"; ObjectID = "Zh1-YR-dRP"; */
+"Sport" = "Spor";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "a4P-0U-Cdp"; */
+"Settings" = "Ayarlar";
+
+/* Class = "UIButton"; normalTitle = "REMOVE ACCOUNT"; ObjectID = "aax-Rt-1Km"; */
+"REMOVE ACCOUNT" = "HESABI KALDIR";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "b3e-vO-OhF"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "b7u-BM-oqw"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Black"; ObjectID = "bCM-dJ-J5Q"; */
+"Black" = "Siyah";
+
+/* Class = "UILabel"; text = "Favorite"; ObjectID = "bff-QG-fFU"; */
+"Favorite" = "Favori";
+
+/* Class = "UITextField"; placeholder = "Ethnicity"; ObjectID = "bqF-Wz-S66"; */
+"Ethnicity" = "Etnik köken";
+
+/* Class = "UITextField"; placeholder = "Instagram"; ObjectID = "dDk-ZU-MNu"; */
+"Instagram" = "Instagram";
+
+/* Class = "UILabel"; text = "Personality Info"; ObjectID = "dHR-Xp-piZ"; */
+"Personality Info" = "Kişilik Bilgileri";
+
+/* Class = "UILabel"; text = "There is no Favourite User"; ObjectID = "daW-tO-pTl"; */
+"There is no Favourite User" = "Favori Kullanıcı yok";
+
+/* Class = "UITextField"; placeholder = "Drink"; ObjectID = "eJd-Ze-xPN"; */
+"Drink" = "İçmek";
+
+/* Class = "UILabel"; text = "Travel"; ObjectID = "eP5-5M-ub1"; */
+"Travel" = "Seyahat";
+
+/* Class = "UITextField"; placeholder = "I live With"; ObjectID = "ecw-R2-YGD"; */
+"I live With" = "İle yaşıyorum";
+
+/* Class = "UILabel"; text = "Pets"; ObjectID = "fpg-R3-BlX"; */
+"Pets" = "Evcil Hayvan";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "g70-kF-WX5"; */
+"SAVE" = "KAYIT ETMEK";
+
+/* Class = "UILabel"; text = "My Profile"; ObjectID = "gfa-FG-DHH"; */
+"My Profile" = "Benim profilim";
+
+/* Class = "UILabel"; text = "Invite Friends"; ObjectID = "ggh-va-fDt"; */
+"Invite Friends" = "Arkadaşları davet etmek";
+
+/* Class = "UILabel"; text = "There is no Disliked User"; ObjectID = "glZ-t5-4sK"; */
+"There is no Disliked User" = "Beğenilmeyen Kullanıcı yok";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "h84-54-OTY"; */
+"Gender" = "Cinsiyet";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "hEa-ac-lTb"; */
+"SAVE" = "KAYIT ETMEK";
+
+/* Class = "UILabel"; text = "Body Type"; ObjectID = "hJa-Th-gRz"; */
+"Body Type" = "Vücut Tipi";
+
+/* Class = "UILabel"; text = "Work Status"; ObjectID = "hbZ-Yu-VUe"; */
+"Work Status" = "İş durumu";
+
+/* Class = "UILabel"; text = "Drink"; ObjectID = "hcK-4D-sW1"; */
+"Drink" = "İçmek";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "hm7-cW-TgF"; */
+"Name" = "İsim";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "hra-8b-B9O"; */
+"Height" = "Yükseklik";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "iq6-sm-PUk"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Education Level"; ObjectID = "jMM-oA-2SA"; */
+"Education Level" = "Eğitim Seviyesi";
+
+/* Class = "UILabel"; text = "Interests"; ObjectID = "kEc-jg-c8i"; */
+"Interests" = "İlgi Alanları";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "kLd-pG-xWW"; */
+"SAVE" = "KAYIT ETMEK";
+
+/* Class = "UILabel"; text = "Lifestyle"; ObjectID = "kuu-oz-SjD"; */
+"Lifestyle" = "Yaşam tarzı";
+
+/* Class = "UITextField"; placeholder = "Repeat Password"; ObjectID = "kzN-7p-wmy"; */
+"Repeat Password" = "Şifreyi tekrar girin";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "l4z-aL-XTN"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "lz6-bD-Me5"; */
+"-------" = "-------";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "mRd-tt-s7m"; */
+"SAVE" = "KAYIT ETMEK";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "mnq-n3-7go"; */
+"-------" = "-------";
+
+/* Class = "UITextField"; placeholder = "Relationship"; ObjectID = "n47-zr-BDL"; */
+"Relationship" = "İlişki";
+
+/* Class = "UILabel"; text = "Car"; ObjectID = "nmO-CV-DVD"; */
+"Car" = "Araba";
+
+/* Class = "UILabel"; text = "Education Level"; ObjectID = "oM7-2o-e3O"; */
+"Education Level" = "Eğitim Seviyesi";
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "oW9-MB-DMD"; */
+"Delete Account" = "Hesabı Sil";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "p3b-Al-PNg"; */
+"Username" = "Kullanıcı adı";
+
+/* Class = "UILabel"; text = "Movie"; ObjectID = "p7H-QM-7h4"; */
+"Movie" = "Film";
+
+/* Class = "UILabel"; text = "Earn upto $ for each user your refer to us!"; ObjectID = "pUF-X0-eTU"; */
+"Earn upto $ for each user your refer to us!" = "Bize yönlendirdiğiniz her kullanıcı için $ 'a kadar kazanın!";
+
+/* Class = "UILabel"; text = "Edit looks Info"; ObjectID = "pmO-40-rNC"; */
+"Edit looks Info" = "Görünüm Bilgilerini Düzenle";
+
+/* Class = "UILabel"; text = "Friends"; ObjectID = "qEX-WS-SHc"; */
+"Friends" = "Arkadaşlar";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "qEu-gA-58v"; */
+"SAVE" = "KAYIT ETMEK";
+
+/* Class = "UILabel"; text = "30%"; ObjectID = "r3a-ys-3Kg"; */
+"30%" = "30%";
+
+/* Class = "UILabel"; text = "Smoke"; ObjectID = "rtQ-w1-rBb"; */
+"Smoke" = "Sigara içmek";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "s6z-KK-Vlw"; */
+"Location" = "yer";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "sPr-GO-YBO"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Religion"; ObjectID = "t1V-NX-rl7"; */
+"Religion" = "Din";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "t6S-qC-dxh"; */
+"Location" = "Yer";
+
+/* Class = "UITextField"; placeholder = "Hobby"; ObjectID = "t8R-4l-i1W"; */
+"Hobby" = "Hobi";
+
+/* Class = "UILabel"; text = "People i Disliked"; ObjectID = "tHP-u0-e5D"; */
+"People I Disliked" = "Beğenmediğim Kişiler";
+
+/* Class = "UITextField"; placeholder = "Color"; ObjectID = "tbq-pB-xoz"; */
+"Color" = "Renk";
+
+/* Class = "UILabel"; text = "Dish"; ObjectID = "tsq-hP-2sG"; */
+"Dish" = "Tabak";
+
+/* Class = "UILabel"; text = "Music Genre"; ObjectID = "uA7-aT-pxl"; */
+"Music Genre" = "Müzik tarzı";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "uJc-gl-Lv2"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Friends"; ObjectID = "uct-tb-qZs"; */
+"Friends" = "Arkadaşlar";
+
+/* Class = "UILabel"; text = "Sport"; ObjectID = "v9L-yB-5WX"; */
+"Sport" = "Sport";
+
+/* Class = "UILabel"; text = "There is no Blocked User"; ObjectID = "vNd-Ql-MBj"; */
+"There is no Blocked User" = "Engellenen Kullanıcı Yok";
+
+/* Class = "UITextField"; placeholder = "Book"; ObjectID = "viY-3a-DCr"; */
+"Book" = "Kitap";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "vwd-hk-ESl"; */
+"Female" = "Kadın";
+
+/* Class = "UILabel"; text = "Curvy"; ObjectID = "wOi-6o-3DQ"; */
+"Curvy" = "Kıvrımlı";
+
+/* Class = "UILabel"; text = "Profile Completed"; ObjectID = "wZS-nG-MQv"; */
+"Profile Completed" = "Profil Tamamlandı";
+
+/* Class = "UITextField"; placeholder = "Religion"; ObjectID = "xKd-Ye-odv"; */
+"Religion" = "Din";
+
+/* Class = "UILabel"; text = "You have No Friends"; ObjectID = "xTw-l2-9bO"; */
+"You have No Friends" = "Arkadaşın yok";
+
+/* Class = "UILabel"; text = "TV Show"; ObjectID = "xUd-69-oH3"; */
+"TV Show" = "Televizyon şovu";
+
+/* Class = "UITextField"; placeholder = "Friends"; ObjectID = "xhp-7q-VKv"; */
+"Friends" = "Arkadaşlar";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "yPJ-tH-UN4"; */
+"Male" = "Erkek";
+
+/* Class = "UITextField"; placeholder = "Tv Show"; ObjectID = "yW8-Xl-zSL"; */
+"Tv Show" = "Televizyon şovu";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "yxs-P1-ybL"; */
+"Gender" = "Cinsiyet";
+
+/* Class = "UITextField"; placeholder = "Language"; ObjectID = "zRG-OF-HfI"; */
+"Language" = "Dil";
+
+"Swipe Cards" = "Kaydırma Kartları";
+
+"Swipe cards right and left if you like or dislike someone" = "Birini beğenir veya beğenmezseniz kartları sağa ve sola kaydırın";
+
+"Search Nearby" = "Yakınlarda ara";
+
+"Connect With Local Singles & Start Your Online Dating Adventure!" = "Yerel Bekârlarla Bağlantı Kurun ve Çevrimiçi Arkadaşlık Maceranıza Başlayın!";
+
+"Chat" = "Sohbet";
+"Connect with like minded people and exchange your love" = "Benzer düşünen insanlarla bağlantı kurun ve sevginizi paylaşın";
+
+"Matches" = "Maçlar";
+
+"Visits" = "Ziyaretler";
+"Likes" = "Seviyor";
+"Request" = "İstek";
+
+"Pro Users" = "Pro Kullanıcılar";
+"Hot or Not" = "Çekici mi değil mi";
+
+"View More" = "Daha fazla göster";
+"You got a new match, click to view" = "Yeni bir maçınız var, görüntülemek için tıklayın";
+"Visit you" = "Sizi ziyaret edin";
+"Like you" = "Senin gibi";
+"Dislike you" = "Senden hoşlanmıyorum";
+"Is now in your friend list" = "Artık arkadaş listenizde var";
+"Requested to be a friend with you" = "Seninle arkadaş olmak istendi";
+"Likes" = "Seviyor";
+"Visits" = "Ziyaretler";
+"Settings" = "Ayarlar";
+"Boost Me" = "Beni Güçlendir";
+"Edit Profile" = "Profili Düzenle";
+"Friends" = "Arkadaşlar";
+"Display all your friend users" = "Tüm arkadaş kullanıcılarınızı görüntüleyin";
+"People i Liked" = "Sevdiğim Kişiler";
+"Display Users i give them a like" = "Görüntüleyen Kullanıcılara Beğeniyorum";
+"People i Disliked" = "Beğenmediğim Kişiler";
+"Display users i didn't like" = "Beğenmediğim kullanıcıları göster";
+"Favorite" = "Favori";
+"Display all your favorite users" = "Tüm favori kullanıcılarınızı görüntüleyin";
+"Blogs" = "Bloglar";
+"Read the latest Articles" = "En son Makaleleri okuyun";
+"Invite Friends" = "Arkadaşları davet etmek";
+"Invite Friends to the app" = "Arkadaşlarınızı uygulamaya davet edin";
+
+"Credits" = "Kredi";
+"Your Quickdate Credits balance" = "Quickdate Kredi bakiyeniz";
+"Boost your profile" = "Profilinizi güçlendirin";
+"Highlight your messages" = "Mesajlarınızı vurgulayın";
+"send a gift" = "hediye gönder";
+"Get seen 100x in Discover" = "Keşfet'te 100 kat görünün";
+"Put your self First in Search" = "Kendinizi Aramada İlk Sıraya Koyun";
+"Get additional Stickers" = "Ek Çıkartmalar Alın";
+"Double your chances for a friendship" = "Arkadaşlık için şansınızı ikiye katlayın";
+"Buy Credit" = "Kredi satın Al";
+"Bag of Credits" = "Kredi Çantası";
+"Box of Credits" = "Kredi Kutusu";
+"Chest of Credits" = "Kredi Sandığı";
+"Terms and conditions" = "Şartlar ve koşullar";
+"Skip Credit" = "Krediyi Atla";
+"Weekly" = "Haftalık";
+"Monthly" = "Aylık";
+"Yearly" = "Yıllık";
+"Lifetime" = "Ömür";
+"Select Payment" = "Ödemeyi Seçin";
+"The Apple Pay transaction was complete." = "Apple Pay işlemi tamamlandı.";
+"The RazorPay transaction was complete." = "The RazorPay transaction was complete.";
+"Success" = "Başarı";
+"Loading..." = "Yükleniyor...";
+"help" = "Yardım";
+"about" = "hakkında";
+"Logout" = "Çıkış Yap";
+"Are you sure you want to logout?" = "Çıkış yapmak istediğinizden emin misiniz?";
+"Confirm" = "Onayla";
+"Cancel" = "İptal";
+"General" = "Genel";
+"Security" = "Güvenlik";
+"Display" = "Görüntüle";
+"Messenger" = "Messenger";
+"Privacy" = "Gizlilik";
+"Storage" = "Depolama";
+"Support" = "Destek";
+"My Account" = "Hesabım";
+"Withdrawals" = "Para çekme";
+"Blocked Users" = "Engellenmiş kullanıcılar";
+"Social Links" = "Sosyal Bağlantılar";
+"My Affliates" = "Bağlı Kuruluşlarım";
+"Password" = "Parola";
+"Change your password" = "Şifreni değiştir";
+"Manage Sessions" = "Oturumları Yönet";
+"DarkMode" = "Karanlık Mod";
+"Theme" = "Tema";
+"Show when you're active" = "Aktif olduğunuzu gösterin";
+"Show my profile on search engines?" = "Aktif olduğunuzu gösterin";
+"Show my profile in random users?" =  "Profilimi rastgele kullanıcılarda göster?";
+"Show my profile in find match page?" = "Profilimi eşleşme bulma sayfasında gösterilsin mi?";
+"Confirm request when someone request to be a friend with you?" = "Biri seninle arkadaş olmak istediğinde isteği onayla?";
+"Clear Cache" = "Önbelleği Temizle";
+"Delete account" = "Hesabı sil";
+"Please enter Current Password." = "Lütfen Mevcut Şifreyi Girin.";
+"Please enter New Password." = "Lütfen Yeni Şifreyi Girin.";
+"Please enter Repeat Password." = "Lütfen Şifreyi Tekrar Girin.";
+"Password do not match." = "Parola eşleşmedi.";
+"Please enter amount." = "Lütfen tutarı girin.";
+"Please enter email" = "Lütfen e-posta giriniz";
+"Email is badly formatted." = "E-posta kötü biçimlendirilmiş.";
+"Amount shouldn't be less than 50." = "Tutar 50'den az olmamalıdır.";
+"Phone" = "Telefon";
+"Browser" = "Tarayıcı";
+"Last seen" = "Son görülen";
+
+"BASICS" = "TEMEL";
+"BACKGROUND" = "ARKA FON";
+"LIFESTYLE" = "YAŞAM TARZI";
+"MORE" = "DAHA FAZLA";
+"LOOKS" = "GÖRÜNÜYOR";
+"Languages" = "Diller";
+"Cancel" = "İptal";
+"Block" = "Blok";
+"Report" =  "Bildiri";
+"Unknown" = "Bilinmeyen";
+"Gallery" = "Kaynak Seç";
+"Camera" = "Kamera";
+"Select Source" = "Kaynak Seç";
+"Clear chat" = "Konusmayi temizle";
+
+"UnFavorite" = "Favorilerden Çıkar";
+"Verify your Number" = "Numaranızı doğrulayın";
+"Phone Number" = "Telefon numarası";
+"Please enter your mobile number to receive a verification code. Carrier rates may apply" = "Doğrulama kodunu almak için lütfen cep telefonu numaranızı girin. Operatör ücretleri geçerli olabilir";
+"NO, OTHER TIME" = "HAYIR, DİĞER ZAMAN";
+"Continue" = "Devam et";
+
+"Two-factor Authentication" = "İki faktörlü Kimlik Doğrulama";
+"Turn on 2-step login to level-up your account security. Once turned on, you'll use both your password and a 6-digit security code send to your  phone or email to log in." = "Hesap güvenliğinizi üst düzeye çıkarmak için 2 adımlı girişi açın. Açıldıktan sonra, oturum açmak için hem şifrenizi hem de telefonunuza veya e-postanıza gönderilen 6 basamaklı bir güvenlik kodunu kullanacaksınız.";
+"Disable" = "Devre dışı bırak";
+"Enable" = "etkinleştirme";
+"SAVE" = "KAYIT ETMEK";
+"Defualt" = "Varsayılan";
+"Copy Profile Link" = "Profil Bağlantısını Kopyala";
+"Social Media Invite" = "Sosyal Medya Daveti";
+"Share it by inviting your friends using these" = "Bunları kullanarak arkadaşlarınızı davet ederek paylaşın";
+
+"Paypal" = "Paypal";
+"Credit Card" = "Kredi kartı";
+"Bank Transfer" = "Banka transferi";
+"Select Payment" = "Ödeme Seçiniz";
+"If you dislike this person and you don't want to keep in touch Swipe Left" = "Bu kişiden hoşlanmıyorsanız ve iletişimde kalmak istemiyorsanız Sola Kaydırın";
+"You got a new match, click to view!"  = "Yeni bir maçınız var, görüntülemek için tıklayın!";
+"There is no data to show" = "Gösterilecek veri yok";
+"Copy Link" = "Bağlantıyı kopyala";
+"Views" = "Görüntüleme";
+"Copy to clipboard" = "Panoya kopyala";
+
+"BY REGISTERING YOU AGREE TO OUR" = "KAYDOLARAK KABUL ETMİŞ OLURSUNUZ:";
+
+"By registering you agree to our terms of service" = "Kaydolarak hizmet şartlarımızı kabul etmiş olursunuz";
+"OKAY" = "OKAY";
+"TERMS OF SERVICE" = "KULLANIM ŞARTLARI";
+"PRIVACY" = "GİZLİLİK";
+"Security" = "Güvenlik";
+"Please enter first name." = "Lütfen adı girin.";
+"Please enter last name." = "Lütfen soyadınızı girin.";
+"Email is badly formatted." = "E-posta kötü biçimlendirilmiş.";
+"Password do not match." = "Parola eşleşmedi.";
+"Please enter confirm password." = "Lütfen parolayı onaylayın.";
+"Please enter password." = "Lütfen şifre giriniz.";
+"Please enter email." = "Lütfen e-posta giriniz.";
+"Please enter username." = "Lütfen kullanıcı adını girin.";
+"Internet Error" = "İnternet Hatası";
+
+
+/* NAZMI */
+
+/* NoInternetViewController */
+"Try Again" = "Yeniden Deneyin";
+
+"No Internet Available" = "Internet Bağlantısı Yok";
+
+"We could not establish a connection with our servers please try again later." = "Kendi servislerimize erişemiyoruz, lütfen daha sonra tekrar deneyiniz..";
+
+/* Profile */
+"Updated successfully..." = "Başarılı bir şekilde güncellendi...";
+
+/* Dashboard */
+
+"Find a Match" = "Arkadaş Eşleşme";
+"Online Now" = "Şimdi Online";
+
+"View Profile" = "Profiline bak";
+
+"FAQ, contact us, privacy" = "SSS, iletişim, gizlilik";
+
+"Add Comment here" = "Yorumu buraya giriniz";
+
+"Please enter Code." = "Lütfen kodu giriniz.";
+
+"Yes, I want to delete " = "Evet, silmek istiyorum";
+
+" permanently from QuickDate Account." = " QuickDate Hesabından kalıcı olarak.";
+
+"Do you want to unblock this user ?" = "Bu kullanıcının engellemesini kaldırmak istiyor musunuz?";
+
+"Do you want to log out from this device?" = "Bu cihazdan çıkmak istiyor musunuz?";
+
+"The files will be deleted. Are you sure?" = "Dosyalar silinecek. Emin misin?";

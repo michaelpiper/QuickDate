@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-Regular.otf">
+            <string>Poppins-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="PeopleILikeCollectionItem" id="fLk-lN-NSm" customClass="PeopleILikeCollectionItem" customModule="QuickDate" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="166" height="277"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                <rect key="frame" x="0.0" y="0.0" width="166" height="277"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="firstImage1" translatesAutoresizingMaskIntoConstraints="NO" id="WOA-gZ-M3G">
+                        <rect key="frame" x="43" y="16" width="80" height="80"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="80" id="b8o-Tv-qZk"/>
+                            <constraint firstAttribute="width" secondItem="WOA-gZ-M3G" secondAttribute="height" multiplier="1:1" id="kVd-cd-yGr"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="CuongLV" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QUj-sx-FQn">
+                        <rect key="frame" x="20" y="104" width="126" height="23"/>
+                        <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="16"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="date " textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tta-t0-5eO">
+                        <rect key="frame" x="20" y="127" width="126" height="18.5"/>
+                        <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="13"/>
+                        <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Wdn-VX-pe7">
+                        <rect key="frame" x="63" y="153.5" width="40" height="40"/>
+                        <color key="backgroundColor" name="primaryEndColor"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="40" id="Tv7-XU-CEy"/>
+                            <constraint firstAttribute="width" secondItem="Wdn-VX-pe7" secondAttribute="height" multiplier="1:1" id="ocz-nK-Xgb"/>
+                        </constraints>
+                        <inset key="imageEdgeInsets" minX="7" minY="7" maxX="7" maxY="7"/>
+                        <state key="normal" image="heartArrow"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusV">
+                                <real key="value" value="20"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                        <connections>
+                            <action selector="disHeartPressed:" destination="fLk-lN-NSm" eventType="touchUpInside" id="Mgx-2d-nm2"/>
+                        </connections>
+                    </button>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="WOA-gZ-M3G" secondAttribute="trailing" constant="20" id="57i-BY-TB4"/>
+                <constraint firstItem="tta-t0-5eO" firstAttribute="top" secondItem="QUj-sx-FQn" secondAttribute="bottom" id="5fu-Rg-9VT"/>
+                <constraint firstItem="tta-t0-5eO" firstAttribute="trailing" secondItem="QUj-sx-FQn" secondAttribute="trailing" id="BKv-J9-vgm"/>
+                <constraint firstItem="WOA-gZ-M3G" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="fLk-lN-NSm" secondAttribute="leading" constant="20" id="GCt-g7-FnB"/>
+                <constraint firstAttribute="trailing" secondItem="QUj-sx-FQn" secondAttribute="trailing" constant="20" id="KcG-pq-Jev"/>
+                <constraint firstItem="WOA-gZ-M3G" firstAttribute="top" secondItem="fLk-lN-NSm" secondAttribute="top" constant="16" id="KxZ-wI-djm"/>
+                <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="Wdn-VX-pe7" secondAttribute="bottom" constant="6" id="aQq-Y3-XXT"/>
+                <constraint firstItem="Wdn-VX-pe7" firstAttribute="top" secondItem="tta-t0-5eO" secondAttribute="bottom" constant="8" id="d4O-QB-qJY"/>
+                <constraint firstItem="QUj-sx-FQn" firstAttribute="top" secondItem="WOA-gZ-M3G" secondAttribute="bottom" constant="8" id="jUa-s6-MBF"/>
+                <constraint firstItem="tta-t0-5eO" firstAttribute="leading" secondItem="QUj-sx-FQn" secondAttribute="leading" id="oOd-j2-RYx"/>
+                <constraint firstItem="Wdn-VX-pe7" firstAttribute="centerX" secondItem="fLk-lN-NSm" secondAttribute="centerX" id="wpU-Ve-nHA"/>
+                <constraint firstItem="QUj-sx-FQn" firstAttribute="leading" secondItem="fLk-lN-NSm" secondAttribute="leading" constant="20" id="za9-SV-2mv"/>
+                <constraint firstItem="WOA-gZ-M3G" firstAttribute="centerX" secondItem="fLk-lN-NSm" secondAttribute="centerX" id="zpo-K8-QJo"/>
+            </constraints>
+            <size key="customSize" width="166" height="277"/>
+            <connections>
+                <outlet property="dateLabel" destination="tta-t0-5eO" id="hcf-YN-Ksx"/>
+                <outlet property="profileImage" destination="WOA-gZ-M3G" id="D6C-3p-jLV"/>
+                <outlet property="usernameLabel" destination="QUj-sx-FQn" id="Xk0-Xb-Scq"/>
+            </connections>
+            <point key="canvasLocation" x="88" y="-67"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="firstImage1" width="250" height="236.5"/>
+        <image name="heartArrow" width="512" height="512"/>
+        <namedColor name="primaryEndColor">
+            <color red="1" green="0.0" blue="0.49799999594688416" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

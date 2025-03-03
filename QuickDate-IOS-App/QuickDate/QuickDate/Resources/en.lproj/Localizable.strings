@@ -1,0 +1,1353 @@
+/* 
+ Localizable.strings
+ DeepSoundiOS
+ 
+ Created by Macbook Pro on 01/08/2019.
+ Copyright © 2019 Muhammad Haris Butt. All rights reserved.
+ */
+
+"Back" = "Back";
+
+/* Trending */
+
+/* Class = "UITextField"; placeholder = "Religion"; ObjectID = "1V5-Sc-adF"; */
+"Religion" = "Religion";
+
+/* Class = "UITextField"; placeholder = "Interest"; ObjectID = "2ZX-2f-QYr"; */
+"Interest" = "Interest";
+
+/* Class = "UILabel"; text = "Who are you looking for?"; ObjectID = "5Jy-bx-kCc"; */
+"Who are you looking for?" = "Who are you looking for?";
+"# Who are you looking for?" = "# Who are you looking for?";
+
+/* Class = "UIButton"; normalTitle = "Reset filter"; ObjectID = "8g5-5l-Uqv"; */
+"RESET FILTERS" = "RESET FILTERS";
+
+/* Class = "UILabel"; text = "Hot or Not"; ObjectID = "AW7-PC-5dC"; */
+"Hot or Not" = "Hot or Not";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "BHk-aE-5pe"; */
+"Location" = "Location";
+
+/* Class = "UILabel"; text = "NearBy"; ObjectID = "Eu3-ys-1pL"; */
+"NearBy" = "NearBy";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "I9L-gX-45v"; */
+"I9L-gX-45v.text" = "Distance";
+
+/* Class = "UITextField"; placeholder = "smoke"; ObjectID = "Inw-E4-gxs"; */
+"Smoke" = "smoke";
+
+/* Class = "UILabel"; text = "Miin"; ObjectID = "K3o-Fn-Hmm"; */
+"Miin" = "Miin";
+
+/* Class = "UITextField"; placeholder = "Language"; ObjectID = "MEV-2n-ppm"; */
+"Language" = "Language";
+
+/* Class = "UITextField"; placeholder = "Pets"; ObjectID = "PJy-aI-wKq"; */
+"Pets" = "Pets";
+
+/* Class = "UIButton"; normalTitle = "BOYS"; ObjectID = "SFQ-ce-N7y"; */
+"BOYS" = "BOYS";
+
+/* Class = "UITextField"; placeholder = "Education"; ObjectID = "Vkt-Lu-nrS"; */
+"Education" = "Education";
+
+/* Class = "UINavigationItem"; title = "Hot or Not "; ObjectID = "W1f-KQ-dQp"; */
+"Hot or Not " = "Hot or Not ";
+
+/* Class = "UILabel"; text = "35 km"; ObjectID = "WaP-wd-1Sn"; */
+"35 km" = "35 km";
+
+/* Class = "UIButton"; normalTitle = "GIRLS"; ObjectID = "XA2-Ri-386"; */
+"GIRLS" = "GIRLS";
+
+/* Class = "UILabel"; text = "Online Now"; ObjectID = "Xk7-hV-GcB"; */
+"Online Now" = "Online Now";
+
+/* Class = "UILabel"; text = "0 - 100"; ObjectID = "ZdM-jq-WIE"; */
+"0 - 100" = "0 - 100";
+
+/* Class = "UILabel"; text = "Max"; ObjectID = "ZjT-f5-x2k"; */
+"Max" = "Max";
+
+/* Class = "UITextField"; placeholder = "From Height"; ObjectID = "fMz-9e-2L1"; */
+"From Height" = "From Height";
+
+/* Class = "UIButton"; normalTitle = "BOTH"; ObjectID = "fW9-yX-pgn"; */
+"BOTH" = "BOTH";
+
+/* Class = "UILabel"; text = "There is no data to show"; ObjectID = "goT-Eg-uzd"; */
+"There is no data to show" = "There is no data to show";
+
+/* Class = "UITextField"; placeholder = "Slim"; ObjectID = "hug-FN-5V1"; */
+"Slim" = "Slim";
+
+/* Class = "UITextField"; text = "Body"; ObjectID = "hug-FN-5V1"; */
+"Body" = "Body";
+
+/* Class = "UITextField"; placeholder = "Relationship"; ObjectID = "lS0-zI-phd"; */
+"Relationship" = "Relationship";
+
+/* Class = "UILabel"; text = "Filter"; ObjectID = "lso-pW-mRI"; */
+"Filter" = "Filter";
+
+/* Class = "UIButton"; normalTitle = "Apply Filter"; ObjectID = "lzy-4r-x7j"; */
+"Apply Filter" = "Apply Filter";
+
+/* Class = "UITextField"; placeholder = "Drink"; ObjectID = "nAe-EJ-vBH"; */
+"Drink" = "Drink";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "nR2-JH-KvO"; */
+"Age" = "Age";
+
+/* Class = "UITextField"; placeholder = "Ethnicity"; ObjectID = "q5S-CI-9ll"; */
+"Ethnicity" = "Ethnicity";
+
+/* Class = "UITextField"; placeholder = "To Height"; ObjectID = "vbH-Qz-IpG"; */
+"To Height" = "To Height";
+
+
+/*Authentication*/
+
+"Empty Email!" = "Empty Email!";
+"Invalid Email!" = "Invalid Email!";
+"Empty Password!" = "Empty Password!";
+"Short Password!" = "Short Password!";
+"Passwords do not match!" = "Passwords do not match!";
+
+"Login Successful..." = "Login Successful...";
+"Created an Account Successfully..." = "Created an Account Successfully...";
+"Something Wrong" = "Something Wrong";
+"Could you please try again later?" = "Could you please try again later?";
+"Sign in with Apple" = "Sign in with Apple";
+/* Class = "UIButton"; normalTitle = "Continue with Facebook"; ObjectID = "OIc-Sx-5xB"; */
+"Continue with Facebook" = "Continue with Facebook";
+"Sign In with Google" = "Sign In with Google";
+/* Class = "UIButton"; normalTitle = "Login with WoWonder"; ObjectID = "Ox0-aF-i58"; */
+"Login with WoWonder" = "Login with WoWonder";
+
+/* Class = "UILabel"; text = "Please enter your email address. We will send you a link to reset password."; ObjectID = "0ZU-hh-g7k"; */
+"Please enter your email address. We will send you a link to reset password." = "Please enter your email address. We will send you a link to reset password.";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "4ZZ-rk-bhM"; */
+"Last Name" = "Last Name";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "4bH-yX-3pg"; */
+"Send" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "5m3-kl-sje"; */
+"Register" = "Register";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "9Gh-MY-3Wu"; */
+"Confirm Password" = "Confirm Password";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "9yz-hC-btf"; */
+"Continue" = "Continue";
+
+/* Class = "UILabel"; text = "Verification"; ObjectID = "Ajb-bv-62D"; */
+"Verification" = "Verification";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "CNs-If-QUH"; */
+" " = " ";
+
+/* Class = "UILabel"; text = "Flirt, Chat, and meet people around you."; ObjectID = "DTK-Xm-6By"; */
+"Flirt, Chat, and meet people around you." = "Flirt, Chat, and meet people around you.";
+
+/* Class = "UILabel"; text = "Forget Password"; ObjectID = "DvK-ru-hIP"; */
+"Forget Password" = "Forget Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "E5A-Af-TZP"; */
+"Email" = "Email";
+
+/* Class = "UILabel"; text = "BY REGISTERING YOU AGREE TO OUR TERM OF SERVICE"; ObjectID = "EZf-sC-ulJ"; */
+"BY REGISTERING YOU AGREE TO OUR TERM OF SERVICE" = "BY REGISTERING YOU AGREE TO OUR TERM OF SERVICE";
+
+/* Class = "UILabel"; text = "ALREADY HAVE AN ACCOUNT?"; ObjectID = "Hmt-Ir-LAd"; */
+"ALREADY HAVE AN ACCOUNT?" = "ALREADY HAVE AN ACCOUNT?";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "MTL-ZN-Wzk"; */
+"Sign In" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "Mbj-tE-t74"; */
+"Sign in" = "Sign in";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "Nb0-QR-ols"; */
+"First Name" = "First Name";
+
+/* Class = "UIButton"; normalTitle = "NO, OTHER TIME"; ObjectID = "Nog-SF-qaU"; */
+"NO, OTHER TIME" = "NO, OTHER TIME";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "QEw-GY-lQx"; */
+"Login" = "Login";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "QlU-DW-KtF"; */
+"Email" = "Email";
+
+/* Class = "UITextField"; placeholder = "Gender"; ObjectID = "RPJ-Gw-HtH"; */
+"Gender" = "Gender";
+
+/* Class = "UIButton"; normalTitle = "CREATE AN ACCOUNT"; ObjectID = "Up8-vL-feJ"; */
+"CREATE AN ACCOUNT" = "CREATE AN ACCOUNT";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "UyV-EG-ZC7"; */
+" " = " ";
+
+/* Class = "UILabel"; text = "DON'T HAVE AN ACCOUNT?"; ObjectID = "X6a-w3-V07"; */
+"DON'T HAVE AN ACCOUNT?" = "DON'T HAVE AN ACCOUNT?";
+
+/* Class = "UIButton"; normalTitle = "Continue with Facebook"; ObjectID = "XWH-Bv-xqU"; */
+"Continue with Facebook" = "Continue with Facebook";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "Y7u-hw-MT4"; */
+"SIGN IN" = "SIGN IN";
+
+/* Class = "UILabel"; text = "Please type email of account you want to recover. You will get 4-digits recovery code"; ObjectID = "YUA-qd-H7U"; */
+"Please type email of account you want to recover. You will get 4-digits recovery code" = "Please type email of account you want to recover. You will get 4-digits recovery code";
+
+/* Class = "UILabel"; text = "BY REGISTERING YOU AGREE TO OUR TERMS OF SERVICE"; ObjectID = "dKN-fb-YfF"; */
+"BY REGISTERING YOU AGREE TO OUR TERMS OF SERVICE" = "BY REGISTERING YOU AGREE TO OUR TERMS OF SERVICE";
+
+/* Class = "UILabel"; text = "Swipe Cards"; ObjectID = "dtd-3S-WOa"; */
+"Swipe Cards" = "Swipe Cards";
+
+/* Class = "UILabel"; text = "Verify your Number"; ObjectID = "e52-Xy-aiD"; */
+"Verify your Number" = "Verify your Number";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "gQp-ko-2uc"; */
+"Get Started" = "Get Started";
+
+/* Class = "UILabel"; text = "To log in, you need to verify  your identity."; ObjectID = "klF-X1-7JW"; */
+"To log in, you need to verify  your identity." = "To log in, you need to verify  your identity.";
+
+/* Class = "UITextField"; placeholder = "Passsword"; ObjectID = "kqj-hz-pf5"; */
+"Passsword" = "Passsword";
+
+/* Class = "UILabel"; text = "Please enter your mobile number to receive a verification code. Carrier rates may apply"; ObjectID = "l9k-fe-UhY"; */
+"Please enter your mobile number to receive a verification code. Carrier rates may apply" = "Please enter your mobile number to receive a verification code. Carrier rates may apply";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "lOw-aH-HlN"; */
+"Password" = "Password";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "lv7-St-fui"; */
+"Username" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "nWR-c0-w8b"; */
+"Send" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "o5G-Ii-1Se"; */
+"Sign In" = "Sign In";
+
+/* Class = "UILabel"; text = "Swipe cards right and left if you like or dislike someone"; ObjectID = "pxz-fx-7Cp"; */
+"Swipe cards right and left if you like or dislike someone" = "Swipe cards right and left if you like or dislike someone";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "qVQ-St-DMA"; */
+"REGISTER" = "REGISTER";
+
+/* Class = "UIButton"; normalTitle = "VERIFY "; ObjectID = "re5-vn-PVs"; */
+"VERIFY " = "VERIFY ";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "snG-as-TxW"; */
+"Sign In" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "t7d-Ya-Ym2"; */
+"Forgot Password?" = "Forgot Password?";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "uIh-70-btL"; */
+"Phone Number" = "Phone Number";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "wNQ-lK-pZA"; */
+"Username" = "Username";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "wWP-2L-O8f"; */
+"Password" = "Password";
+
+/* Class = "UILabel"; text = "We have sent you the confirmation code to your email address."; ObjectID = "xsj-hB-o3v"; */
+"We have sent you the confirmation code to your email address." = "We have sent you the confirmation code to your email address.";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "yIa-Zs-cdp"; */
+"Email" = "Email";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "ywL-rq-PZp"; */
+"Email" = "Email";
+
+/* Class = "UILabel"; text = "Swipe right to like someone and if you both like each other? Its a match."; ObjectID = "z7W-I0-jHA"; */
+"Swipe right to like someone and if you both like each other? Its a match." = "Swipe right to like someone and if you both like each other? Its a match.";
+
+/* Class = "UITextField"; placeholder = "Add code number "; ObjectID = "z9B-ej-3DW"; */
+"Add code number " = "Add code number ";
+
+
+/* Main */
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "3nt-4d-rPN"; */
+"Item" = "Item";
+
+/* Class = "UILabel"; text = "No Notifications Yet"; ObjectID = "HLS-yr-dFh"; */
+"No Notifications Yet" = "No Notifications Yet";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "KDh-yA-nZR"; */
+"Item" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Get x3 Matches"; ObjectID = "KvH-lZ-pnp"; */
+"Get x3 Matches" = "Get x3 Matches";
+
+/* Class = "UILabel"; text = "Your Popularity"; ObjectID = "LHR-mo-bbc"; */
+"Your Popularity" = "Your Popularity";
+
+/* Class = "UILabel"; text = "35 Credits"; ObjectID = "NlM-j0-mbm"; */
+"35 Credits" = "35 Credits";
+
+/* Class = "UIButton"; normalTitle = "Get x4 Likes"; ObjectID = "Qfu-2k-eAY"; */
+"Get x4 Likes" = "Get x4 Likes";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Sqy-K4-q0V"; */
+"Item" = "Item";
+
+/* Class = "UILabel"; text = "25 Credits"; ObjectID = "W0o-IE-ukQ"; */
+"25 Credits" = "25 Credits";
+
+/* Class = "UILabel"; text = "Promote your profile by get more visits, for 5 minutes"; ObjectID = "WRt-Er-B5K"; */
+"Promote your profile by get more visits, for 5 minutes" = "Promote your profile by get more visits, for 5 minutes";
+
+/* Class = "UILabel"; text = "We will display once you get your first activity here "; ObjectID = "XDs-6r-Cig"; */
+"We will display once you get your first activity here " = "We will display once you get your first activity here ";
+
+/* Class = "UILabel"; text = "Show more and rise up at the same time, for 4 minutes"; ObjectID = "Y08-V3-0oJ"; */
+"Show more and rise up at the same time, for 4 minutes" = "Show more and rise up at the same time, for 4 minutes";
+
+/* Class = "UILabel"; text = "We will display once you get your first activity here "; ObjectID = "Zws-zb-gAg"; */
+"We will display once you get your first activity here " = "We will display once you get your first activity here ";
+
+/* Class = "UILabel"; text = "Tell everyone you're online and be seen by users who want to chat, for 5 minutes"; ObjectID = "aEb-OV-QrZ"; */
+"Tell everyone you're online and be seen by users who want to chat, for 5 minutes" = "Tell everyone you're online and be seen by users who want to chat, for 5 minutes";
+
+/* Class = "UINavigationItem"; title = "QuickDate"; ObjectID = "aW8-XI-oT2"; */
+"QuickDate" = "Rosmance";
+
+/* Class = "UILabel"; text = "QuickDate"; ObjectID = "b0L-Tf-b9o"; */
+"QuickDate" = "Rosmance";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "bOE-Wy-jqk"; */
+"Notifications" = "Notifications";
+
+/* Class = "UILabel"; text = "No Notifications Yet"; ObjectID = "fZN-mP-yYx"; */
+"No Notifications Yet" = "No Notifications Yet";
+
+/* Class = "UILabel"; text = "No Notifications Yet"; ObjectID = "kaP-mu-o2p"; */
+"No Notifications Yet" = "No Notifications Yet";
+
+/* Class = "UILabel"; text = "45 Credits"; ObjectID = "mpF-Ja-rRK"; */
+"45 Credits" = "45 Credits";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "nJn-9R-RDJ"; */
+"Item" = "Item";
+
+/* Class = "UILabel"; text = "No Notifications Yet"; ObjectID = "qS2-im-ghc"; */
+"No Notifications Yet" = "No Notifications Yet";
+
+/* Class = "UILabel"; text = "There are no messages"; ObjectID = "qzZ-j7-oq4"; */
+"There are no messages" = "There are no messages";
+
+/* Class = "UILabel"; text = "Very Low"; ObjectID = "sL7-3e-HER"; */
+"Very Low" = "Very Low";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "tGc-w4-vj5"; */
+"Item" = "Item";
+
+/* Class = "UILabel"; text = "We will display once you get your first activity here "; ObjectID = "vM4-Ps-IFY"; */
+"We will display once you get your first activity here " = "We will display once you get your first activity here ";
+
+/* Class = "UIButton"; normalTitle = "Get x10 Visits"; ObjectID = "vpv-1t-xRc"; */
+"Get x10 Visits" = "Get x10 Visits";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "wQ9-oG-Zd5"; */
+"Item" = "Item";
+
+/* Class = "UILabel"; text = "Chats"; ObjectID = "xNw-Gy-Wt7"; */
+"Chats" = "Chats";
+
+/* Class = "UILabel"; text = "We will display once you get your first activity here "; ObjectID = "ySQ-hQ-u4f"; */
+"We will display once you get your first activity here " = "We will display once you get your first activity here ";
+
+
+/*Chat*/
+
+
+/* Class = "UILabel"; text = "CuongLV"; ObjectID = "Aeo-Wq-CVn"; */
+"CuongLV" = "CuongLV";
+
+/* Class = "UITextField"; placeholder = "Write your message"; ObjectID = "SsL-d1-ShJ"; */
+"Write your message" = "Write your message";
+
+/* Class = "UILabel"; text = "Last seen 2 months ago"; ObjectID = "erD-Hn-Sr2"; */
+"Last seen 2 months ago" = "Last seen 2 months ago";
+
+/*popups*/
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "1DS-wK-Zwd"; */
+"Submit" = "Submit";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "3TG-bs-Wet"; */
+"Gender" = "Gender";
+
+/* Class = "UIButton"; normalTitle = "Skip Tutorial"; ObjectID = "3XV-r0-I9O"; */
+"Skip Tutorial" = "Skip Tutorial";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "7Em-F3-H5g"; */
+"CLOSE" = "CLOSE";
+
+/* Class = "UIButton"; normalTitle = "Bank Transfer"; ObjectID = "7I6-EJ-FrE"; */
+"Bank Transfer" = "Bank Transfer";
+
+/* Class = "UILabel"; text = "Your Expiration date: "; ObjectID = "Aza-XV-F2Y"; */
+"Your Expiration date: " = "Your Expiration date: ";
+
+/* Class = "UIButton"; normalTitle = "Default"; ObjectID = "IAV-X4-MSi"; */
+"Default" = "Default";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "JG1-SB-jGo"; */
+"Language" = "Language";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "JUP-Tb-cnv"; */
+"Cancel" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "PNK-kS-iZR"; */
+"NO" = "NO";
+
+/* Class = "UIButton"; normalTitle = "Male"; ObjectID = "PUM-p0-LdS"; */
+"Male" = "Male";
+
+/* Class = "UILabel"; text = "If you like this person and keep in touch, Swipe Right"; ObjectID = "PkX-Ek-TkO"; */
+"If you like this person and keep in touch, Swipe Right" = "If you like this person and keep in touch, Swipe Right";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "Rcg-fD-yoF"; */
+"Language" = "Language";
+
+/* Class = "UIButton"; normalTitle = "Female"; ObjectID = "TdR-Is-Whh"; */
+"Female" = "Female";
+
+/* Class = "UILabel"; text = "Let's Easy"; ObjectID = "YGg-oz-QiY"; */
+"Let's Easy" = "Let's Easy";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "ZA3-ow-eZG"; */
+"CLOSE" = "CLOSE";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "ZJN-Zx-A08"; */
+"YES" = "YES";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "bAw-vr-LoS"; */
+"About" = "About";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "bG5-I6-N8N"; */
+"Cancel" = "Cancel";
+
+/* Class = "UILabel"; text = "Security"; ObjectID = "cAQ-tL-KPr"; */
+"Security" = "Security";
+
+/* Class = "UILabel"; text = "You are Premium User"; ObjectID = "eGT-4H-imD"; */
+"You are Premium User" = "You are Premium User";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "fbh-pC-Cyz"; */
+"Cancel" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "About me "; ObjectID = "gxm-hg-iNi"; */
+"About me " = "About me ";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "h0H-Bg-C3k"; */
+"OK" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Apple Pay"; ObjectID = "igN-SO-A1g"; */
+"Apple Pay" = "Apple Pay";
+
+/* Class = "UILabel"; text = "Interest"; ObjectID = "ij4-FG-zkP"; */
+"Interest" = "Interest";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "j0H-Ei-c2I"; */
+"Submit" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Credit Card"; ObjectID = "kjH-Z6-k9M"; */
+"Credit Card" = "Credit Card";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ppQ-iQ-mad"; */
+"Cancel" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "Enter text a tag,then hit,"; ObjectID = "qKn-Mk-3je"; */
+"Enter text a tag,then hit," = "Enter text a tag,then hit,";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "qgs-9s-1dk"; */
+"Skip" = "Skip";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "uot-52-Y5C"; */
+"Next" = "Next";
+
+/* Class = "UILabel"; text = "Unblock"; ObjectID = "xUP-kL-tWq"; */
+"Unblock" = "Unblock";
+
+
+/*Blogs*/
+
+
+/* Class = "UILabel"; text = "Explore Articles"; ObjectID = "M5K-o0-QNe"; */
+"Explore Articles" = "Explore Articles";
+
+/* Class = "UIBarButtonItem"; title = "Share"; ObjectID = "gp1-AJ-S0m"; */
+"Share" = "Share";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "jAk-AY-dX3"; */
+"Save" = "Save";
+
+/*Calls*/
+
+/* Class = "UIButton"; normalTitle = "Connect"; ObjectID = "Itl-2f-4xi"; */
+"Connect" = "Connect";
+
+/* Class = "UIButton"; normalTitle = "Disconnect"; ObjectID = "Krq-Rh-ETb"; */
+"Disconnect" = "Disconnect";
+
+/* Class = "UIButton"; normalTitle = "Disconnect"; ObjectID = "LT3-yL-pUm"; */
+"Disconnect" = "Disconnect";
+
+/* Class = "UILabel"; text = "TwilioVideo APIs"; ObjectID = "Lne-Ec-G4R"; */
+"TwilioVideo APIs" = "TwilioVideo APIs";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "O4e-FE-ToP"; */
+"Full Name" = "Full Name";
+
+/* Class = "UIButton"; normalTitle = "Connect"; ObjectID = "OEK-e0-Hi3"; */
+"Connect" = "Connect";
+
+/* Class = "UILabel"; text = "Room name "; ObjectID = "Q6S-hD-KBQ"; */
+"Room name " = "Room name ";
+
+/* Class = "UIButton"; normalTitle = "Mute"; ObjectID = "Xbg-m4-ul0"; */
+"Mute" = "Mute";
+
+/* Class = "UILabel"; text = "Room:"; ObjectID = "nJ2-rg-Gq3"; */
+"Room:" = "Room:";
+
+/* Class = "UILabel"; text = "Calling"; ObjectID = "o9N-uy-vh8"; */
+"Calling" = "Calling";
+
+/* Class = "UILabel"; text = "Room:"; ObjectID = "wwq-z2-kUj"; */
+"Room:" = "Room:";
+
+/*Credit*/
+
+/* Class = "UILabel"; text = "Expire"; ObjectID = "0tg-4U-fFl"; */
+"Expire" = "Expire";
+
+/* Class = "UITextField"; placeholder = "Enter your card number"; ObjectID = "2EQ-8C-zdo"; */
+"Enter your card number" = "Enter your card number";
+
+/* Class = "UILabel"; text = "Routing code"; ObjectID = "2oR-kL-VFZ"; */
+"Routing code" = "Routing code";
+
+/* Class = "UILabel"; text = "**** **** **** ****"; ObjectID = "3f4-8z-Efq"; */
+"**** **** **** ****" = "**** **** **** ****";
+
+/* Class = "UILabel"; text = "Bank Transfer"; ObjectID = "5xU-EZ-8nj"; */
+"Bank Transfer" = "Bank Transfer";
+
+/* Class = "UILabel"; text = "Note:"; ObjectID = "6C6-Hg-Nd3"; */
+"Note:" = "Note:";
+
+/* Class = "UIButton"; normalTitle = "Select Picture"; ObjectID = "6Yh-Rd-ixg"; */
+"Select Picture" = "Select Picture";
+
+/* Class = "UILabel"; text = "Turkey"; ObjectID = "C6S-zz-fXx"; */
+"Turkey" = "Turkey";
+
+/* Class = "UILabel"; text = "Get discount when buy boost me"; ObjectID = "EHE-Lq-5lf"; */
+"Get discount when buy boost me" = "Get discount when buy boost me";
+
+/* Class = "UILabel"; text = "MM/YY"; ObjectID = "GA4-dc-sxT"; */
+"MM/YY" = "MM/YY";
+
+/* Class = "UILabel"; text = "Display on top in random users"; ObjectID = "KJf-Gu-qwa"; */
+"Display on top in random users" = "Display on top in random users";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "NAp-V8-KfT"; */
+"Send" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Skip Premium"; ObjectID = "OAH-xI-2qI"; */
+"Skip Premium" = "Skip Premium";
+
+/* Class = "UILabel"; text = "Activating Premium will help you meet more people, faster."; ObjectID = "Ot5-qg-BnH"; */
+"Activating Premium will help you meet more people, faster." = "Activating Premium will help you meet more people, faster.";
+
+/* Class = "UILabel"; text = "See like notifications"; ObjectID = "R5X-rn-i6X"; */
+"See like notifications" = "See like notifications";
+
+/* Class = "UILabel"; text = "Expire"; ObjectID = "RDL-Dx-Hgs"; */
+"Expire" = "Expire";
+
+/* Class = "UITextView"; text = "Please transfer the amount of $8 to this bank account to purchase Weekly Plan Premium Membership"; ObjectID = "SOy-Qm-czr"; */
+"Please transfer the amount of $8 to this bank account to purchase Weekly Plan Premium Membership" = "Please transfer the amount of $8 to this bank account to purchase Weekly Plan Premium Membership";
+
+/* Class = "UILabel"; text = "See more stickers on chat"; ObjectID = "Syj-U9-WQq"; */
+"See more stickers on chat" = "See more stickers on chat";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "Uas-Ue-uBd"; */
+"Country" = "Country";
+
+/* Class = "UILabel"; text = "Display first in find matches"; ObjectID = "YPN-od-mgf"; */
+"Display first in find matches" = "Display first in find matches";
+
+/* Class = "UITextField"; placeholder = "MMYY"; ObjectID = "ZB0-gk-bl5"; */
+"MMYY" = "MMYY";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "c6y-50-Lq0"; */
+"Continue" = "Continue";
+
+/* Class = "UILabel"; text = "Upgrade To Premium"; ObjectID = "cKL-VX-mKJ"; */
+"Upgrade To Premium" = "Upgrade To Premium";
+
+/* Class = "UILabel"; text = "**** **** **** ****"; ObjectID = "fnA-YJ-Yly"; */
+"**** **** **** ****" = "**** **** **** ****";
+
+/* Class = "UILabel"; text = "Show in Premium bar"; ObjectID = "gQh-DL-Khd"; */
+"Show in Premium bar" = "Show in Premium bar";
+
+/* Class = "UILabel"; text = "Credit Card"; ObjectID = "gRj-VK-0An"; */
+"Credit Card" = "Credit Card";
+
+/* Class = "UILabel"; text = "Account name"; ObjectID = "goZ-I4-tB0"; */
+"Account name" = "Account name";
+
+/* Class = "UITextView"; text = "In order to confirm the bank tranfer, you will need to upload a receipt or take a screenshot of your transfer within 1 day from your payment date. If a bank transfer is made but no receipt is uploaded within this period, your order will be cancelled. We will verify and confirm your receipt within 3 working days from the date you upload it."; ObjectID = "kzX-aK-82q"; */
+"In order to confirm the bank tranfer, you will need to upload a receipt or take a screenshot of your transfer within 1 day from your payment date. If a bank transfer is made but no receipt is uploaded within this period, your order will be cancelled. We will verify and confirm your receipt within 3 working days from the date you upload it." = "In order to confirm the bank tranfer, you will need to upload a receipt or take a screenshot of your transfer within 1 day from your payment date. If a bank transfer is made but no receipt is uploaded within this period, your order will be cancelled. We will verify and confirm your receipt within 3 working days from the date you upload it.";
+
+/* Class = "UILabel"; text = "Account Number / IBAN"; ObjectID = "lOt-WG-NqA"; */
+"Account Number / IBAN" = "Account Number / IBAN";
+
+/* Class = "UILabel"; text = "MM/YY"; ObjectID = "lPb-78-y8z"; */
+"MM/YY" = "MM/YY";
+
+/* Class = "UILabel"; text = "Antoian Kordiyal"; ObjectID = "oB4-CF-0Vm"; */
+"Antoian Kordiyal" = "Antoian Kordiyal";
+
+/* Class = "UITextField"; placeholder = "CVV"; ObjectID = "rZC-L7-6G3"; */
+"CVV" = "CVV";
+
+/* Class = "UILabel"; text = "4796824372433055"; ObjectID = "uzy-Xr-qpG"; */
+"4796824372433055" = "4796824372433055";
+
+/* Class = "UILabel"; text = "TGBATRISXXX"; ObjectID = "y8O-92-ZJZ"; */
+"TGBATRISXXX" = "TGBATRISXXX";
+
+/*Settings*/
+
+
+/* Class = "UILabel"; text = "Song"; ObjectID = "0Jo-yk-cdV"; */
+"Song" = "Song";
+
+/* Class = "UITextField"; placeholder = "Website"; ObjectID = "0QO-3d-cuG"; */
+"Website" = "Website";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "1cZ-x2-WNz"; */
+"SAVE" = "SAVE";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "2B4-Ow-eue"; */
+"My Account" = "My Account";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "2Jm-u1-GOx"; */
+"Password" = "Password";
+
+/* Class = "UILabel"; text = "My Affliates"; ObjectID = "2P4-gH-Cm5"; */
+"My Affliates" = "My Affliates";
+
+/* Class = "UITextField"; placeholder = "Pet"; ObjectID = "2UG-76-xrK"; */
+"Pet" = "Pet";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "2Wa-Wd-Lze"; */
+"Change Password" = "Change Password";
+
+/* Class = "UITextField"; placeholder = "Song"; ObjectID = "2bh-yQ-d1C"; */
+"Song" = "Song";
+
+/* Class = "UITextField"; placeholder = "Current Password"; ObjectID = "2l5-6h-E3h"; */
+"Current Password" = "Current Password";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "4Dc-DQ-ril"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "4Mr-Xt-HdM"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "4SF-YI-grb"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "4tP-dv-QYX"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Earn upto $ for each user your refer to us!"; ObjectID = "5Le-Vg-cKO"; */
+"Earn upto $ for each user your refer to us!" = "Earn upto $ for each user your refer to us!";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "5ng-qU-5ut"; */
+"Phone Number" = "Phone Number";
+
+/* Class = "UILabel"; text = "People i Liked"; ObjectID = "6Al-tX-QjO"; */
+"People i Liked" = "People i Liked";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "6ZB-M8-gFZ"; */
+"-------" = "-------";
+
+/* Class = "UITextField"; placeholder = "smoke"; ObjectID = "6bE-pk-2aX"; */
+"Smoke" = "Smoke";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "7qp-Zf-tA9"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Preferred Language"; ObjectID = "8Hw-lP-gKz"; */
+"Preferred Language" = "Preferred Language";
+
+/* Class = "UILabel"; text = "Favorite Info"; ObjectID = "8t5-WS-hbp"; */
+"Favorite Info" = "Favorite Info";
+
+/* Class = "UILabel"; text = "MY BALANCE"; ObjectID = "9Sx-KV-H83"; */
+"MY BALANCE" = "MY BALANCE";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "9t3-Jl-Jf8"; */
+"City" = "City";
+
+/* Class = "UILabel"; text = "This is something about me"; ObjectID = "AXx-8x-93C"; */
+"This is something about me" = "This is something about me";
+
+/* Class = "UILabel"; text = "Relationship Status"; ObjectID = "Akf-s4-b4P"; */
+"Relationship Status" = "Relationship Status";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "B9m-DP-xAL"; */
+"Birthday" = "Birthday";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "C3M-C7-7sV"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Social Links"; ObjectID = "C7J-VZ-rkS"; */
+"Social Links" = "Social Links";
+
+/* Class = "UILabel"; text = "Hair Color"; ObjectID = "CbR-tg-SYz"; */
+"Hair Color" = "Hair Color";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "Cdk-Z5-zpB"; */
+"Color" = "Color";
+
+/* Class = "UITextField"; placeholder = "Color"; ObjectID = "Cxq-kX-I6A"; */
+"Color" = "Color";
+
+/* Class = "UILabel"; text = "Edit Profile Info"; ObjectID = "CzM-K3-vo6"; */
+"Edit Profile Info" = "Edit Profile Info";
+
+/* Class = "UITextField"; placeholder = "Character"; ObjectID = "DFF-B9-9gs"; */
+"Character" = "Character";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "DfB-6g-s5a"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Session"; ObjectID = "Do8-vU-zjT"; */
+"Session" = "Session";
+
+/* Class = "UITextField"; placeholder = "work status"; ObjectID = "E7M-ZI-Wjg"; */
+"work status" = "work status";
+
+/* Class = "UILabel"; text = "Blocked Users"; ObjectID = "EQL-k5-O4l"; */
+"Blocked Users" = "Blocked Users";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "EQT-jX-cPZ"; */
+"New Password" = "New Password";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Eoc-Gd-P4X"; */
+"Name" = "Name";
+
+/* Class = "UITextField"; placeholder = "Birthday"; ObjectID = "Eww-97-huc"; */
+"Birthday" = "Birthday";
+
+/* Class = "UITextField"; placeholder = "Facebook"; ObjectID = "F7c-mx-fQt"; */
+"Facebook" = "Facebook";
+
+/* Class = "UILabel"; text = "Relationship Status"; ObjectID = "GEm-3P-KWD"; */
+"Relationship Status" = "Relationship Status";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "GLt-ot-wOh"; */
+"Gender" = "Gender";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "GPq-23-FC1"; */
+"-------" = "-------";
+
+/* Class = "UITextField"; placeholder = "Height"; ObjectID = "GUy-JO-mCk"; */
+"Height" = "Height";
+
+/* Class = "UITextField"; placeholder = "Twitter"; ObjectID = "GgE-RZ-RJT"; */
+"Twitter" = "Twitter";
+
+/* Class = "UITextField"; placeholder = "Education"; ObjectID = "Ggc-3g-5dP"; */
+"Education" = "Education";
+
+/* Class = "UITextField"; placeholder = "Movie"; ObjectID = "GhH-dI-tTt"; */
+"Movie" = "Movie";
+
+/* Class = "UILabel"; text = "Hobby"; ObjectID = "IJh-HK-s7i"; */
+"Hobby" = "Hobby";
+
+/* Class = "UILabel"; text = "Black"; ObjectID = "IQO-Iq-glN"; */
+"Black" = "Black";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "Ia9-hO-POr"; */
+"Location" = "Location";
+
+/* Class = "UILabel"; text = "3 cm"; ObjectID = "Ie1-jA-bGc"; */
+"3 cm" = "3 cm";
+
+/* Class = "UILabel"; text = "About Me"; ObjectID = "ItX-p9-TG6"; */
+"About Me" = "About Me";
+
+/* Class = "UILabel"; text = "Looks"; ObjectID = "JfX-Av-Z8E"; */
+"Looks" = "Looks";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "JgS-P3-XZz"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Character"; ObjectID = "K2M-26-ZoJ"; */
+"Character" = "Character";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "L4G-6f-LdS"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Children"; ObjectID = "LEC-zo-rCn"; */
+"Children" = "Children";
+
+/* Class = "UITextField"; placeholder = "PayPal E-mail"; ObjectID = "LJ4-i1-Mka"; */
+"PayPal E-mail" = "PayPal E-mail";
+
+/* Class = "UITextField"; placeholder = "Music"; ObjectID = "LWg-zG-8W9"; */
+"Music" = "Music";
+
+/* Class = "UITextField"; placeholder = "Dish"; ObjectID = "LkI-fn-It5"; */
+"Dish" = "Dish";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "MtB-Ih-gFB"; */
+"City" = "City";
+
+/* Class = "UITextField"; placeholder = "Car"; ObjectID = "O19-Q1-Xg1"; */
+"Car" = "Car";
+
+/* Class = "UILabel"; text = "Ethnicity"; ObjectID = "OyP-FW-zOX"; */
+"Ethnicity" = "Ethnicity";
+
+/* Class = "UILabel"; text = "Book"; ObjectID = "P3z-b4-QRC"; */
+"Book" = "Book";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "P5S-1I-V8b"; */
+"Email" = "Email";
+
+/* Class = "UILabel"; text = "$0"; ObjectID = "Pd8-gq-hoe"; */
+"$0" = "$0";
+
+/* Class = "UIButton"; normalTitle = "SAVE PASSWORD"; ObjectID = "QNN-1G-WQ6"; */
+"SAVE PASSWORD" = "SAVE PASSWORD";
+
+/* Class = "UITextField"; placeholder = "Travel"; ObjectID = "Qhb-EY-DbO"; */
+"Travel" = "Travel";
+
+/* Class = "UILabel"; text = "Personality"; ObjectID = "Rum-L9-NfZ"; */
+"Personality" = "Personality";
+
+/* Class = "UITextField"; placeholder = "Google Plus"; ObjectID = "RyJ-db-fi8"; */
+"Google Plus" = "Google Plus";
+
+/* Class = "UILabel"; text = "I live with"; ObjectID = "Sb3-cQ-eqM"; */
+"I live with" = "I live with";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "TJE-er-Elf"; */
+"Amount" = "Amount";
+
+/* Class = "UILabel"; text = "There is no liked User"; ObjectID = "Tdd-dK-XlV"; */
+"There is no liked User" = "There is no liked User";
+
+/* Class = "UITextField"; placeholder = "Children"; ObjectID = "Tqz-OV-6H2"; */
+"Children" = "Children";
+
+/* Class = "UILabel"; text = "Profile Info"; ObjectID = "Trt-3y-Npa"; */
+"Profile Info" = "Profile Info";
+
+/* Class = "UILabel"; text = "If you forgot your password, you can reset it from here."; ObjectID = "Tzd-Pl-yUb"; */
+"If you forgot your password, you can reset it from here." = "If you forgot your password, you can reset it from here.";
+
+/* Class = "UILabel"; text = "Birthday"; ObjectID = "Uf2-SB-JbA"; */
+"Birthday" = "Birthday";
+
+/* Class = "UITextField"; placeholder = "Body"; ObjectID = "UvJ-uO-hVV"; */
+"Body" = "Body";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "VML-Rx-Gz6"; */
+"Country" = "Country";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "W3u-5c-Ibd"; */
+"Save" = "Save";
+
+/* Class = "UILabel"; text = "Withdrawals"; ObjectID = "WET-VL-b5P"; */
+"Withdrawals" = "Withdrawals";
+
+/* Class = "UIButton"; normalTitle = "Share to"; ObjectID = "WJn-M8-YGo"; */
+"Share to" = "Share to";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "Wex-gX-ygG"; */
+"First Name" = "First Name";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "Wi2-4Q-bEN"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Work Status"; ObjectID = "WiW-sL-Icq"; */
+"Work Status" = "Work Status";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "XJF-pO-rqp"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Life Style Info"; ObjectID = "XMu-Rs-CDo"; */
+"Life Style Info" = "Life Style Info";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "XfT-Lg-k4U"; */
+"Help" = "Help";
+
+/* Class = "UILabel"; text = "Favourites"; ObjectID = "Z9z-ej-oYD"; */
+"Favourites" = "Favourites";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "ZHR-85-dBr"; */
+"SAVE" = "SAVE";
+
+/* Class = "UITextField"; placeholder = "LinkedIn"; ObjectID = "Zg0-W1-vNi"; */
+"LinkedIn" = "LinkedIn";
+
+/* Class = "UITextField"; placeholder = "Sport"; ObjectID = "Zh1-YR-dRP"; */
+"Sport" = "Sport";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "a4P-0U-Cdp"; */
+"Settings" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "REMOVE ACCOUNT"; ObjectID = "aax-Rt-1Km"; */
+"REMOVE ACCOUNT" = "REMOVE ACCOUNT";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "b3e-vO-OhF"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "b7u-BM-oqw"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Black"; ObjectID = "bCM-dJ-J5Q"; */
+"Black" = "Black";
+
+/* Class = "UILabel"; text = "Favorite"; ObjectID = "bff-QG-fFU"; */
+"Favorite" = "Favorite";
+
+/* Class = "UITextField"; placeholder = "Ethnicity"; ObjectID = "bqF-Wz-S66"; */
+"Ethnicity" = "Ethnicity";
+
+/* Class = "UITextField"; placeholder = "Instagram"; ObjectID = "dDk-ZU-MNu"; */
+"Instagram" = "Instagram";
+
+/* Class = "UILabel"; text = "Personality Info"; ObjectID = "dHR-Xp-piZ"; */
+"Personality Info" = "Personality Info";
+
+/* Class = "UILabel"; text = "There is no Favourite User"; ObjectID = "daW-tO-pTl"; */
+"There is no Favourite User" = "There is no Favourite User";
+
+/* Class = "UITextField"; placeholder = "Drink"; ObjectID = "eJd-Ze-xPN"; */
+"Drink" = "Drink";
+
+/* Class = "UILabel"; text = "Travel"; ObjectID = "eP5-5M-ub1"; */
+"Travel" = "Travel";
+
+/* Class = "UITextField"; placeholder = "I live With"; ObjectID = "ecw-R2-YGD"; */
+"I live With" = "I live With";
+
+/* Class = "UILabel"; text = "Pets"; ObjectID = "fpg-R3-BlX"; */
+"Pets" = "Pets";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "g70-kF-WX5"; */
+"SAVE" = "SAVE";
+
+/* Class = "UILabel"; text = "My Profile"; ObjectID = "gfa-FG-DHH"; */
+"My Profile" = "My Profile";
+
+/* Class = "UILabel"; text = "Invite Friends"; ObjectID = "ggh-va-fDt"; */
+"Invite Friends" = "Invite Friends";
+
+/* Class = "UILabel"; text = "There is no Disliked User"; ObjectID = "glZ-t5-4sK"; */
+"There is no Disliked User" = "There is no Disliked User";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "h84-54-OTY"; */
+"Gender" = "Gender";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "hEa-ac-lTb"; */
+"SAVE" = "SAVE";
+
+/* Class = "UILabel"; text = "Body Type"; ObjectID = "hJa-Th-gRz"; */
+"Body Type" = "Body Type";
+
+/* Class = "UILabel"; text = "Work Status"; ObjectID = "hbZ-Yu-VUe"; */
+"Work Status" = "Work Status";
+
+/* Class = "UILabel"; text = "Drink"; ObjectID = "hcK-4D-sW1"; */
+"Drink" = "Drink";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "hm7-cW-TgF"; */
+"Name" = "Name";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "hra-8b-B9O"; */
+"Height" = "Height";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "iq6-sm-PUk"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Education Level"; ObjectID = "jMM-oA-2SA"; */
+"Education Level" = "Education Level";
+
+/* Class = "UILabel"; text = "Interests"; ObjectID = "kEc-jg-c8i"; */
+"Interests" = "Interests";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "kLd-pG-xWW"; */
+"SAVE" = "SAVE";
+
+/* Class = "UILabel"; text = "Lifestyle"; ObjectID = "kuu-oz-SjD"; */
+"Lifestyle" = "Lifestyle";
+
+/* Class = "UITextField"; placeholder = "Repeat Password"; ObjectID = "kzN-7p-wmy"; */
+"Repeat Password" = "Repeat Password";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "l4z-aL-XTN"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "lz6-bD-Me5"; */
+"-------" = "-------";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "mRd-tt-s7m"; */
+"SAVE" = "SAVE";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "mnq-n3-7go"; */
+"-------" = "-------";
+
+/* Class = "UITextField"; placeholder = "Relationship"; ObjectID = "n47-zr-BDL"; */
+"Relationship" = "Relationship";
+
+/* Class = "UILabel"; text = "Car"; ObjectID = "nmO-CV-DVD"; */
+"Car" = "Car";
+
+/* Class = "UILabel"; text = "Education Level"; ObjectID = "oM7-2o-e3O"; */
+"Education Level" = "Education Level";
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "oW9-MB-DMD"; */
+"Delete Account" = "Delete Account";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "p3b-Al-PNg"; */
+"Username" = "Username";
+
+/* Class = "UILabel"; text = "Movie"; ObjectID = "p7H-QM-7h4"; */
+"Movie" = "Movie";
+
+/* Class = "UILabel"; text = "Earn upto $ for each user your refer to us!"; ObjectID = "pUF-X0-eTU"; */
+"Earn upto $ for each user your refer to us!" = "Earn upto $ for each user your refer to us!";
+
+/* Class = "UILabel"; text = "Edit looks Info"; ObjectID = "pmO-40-rNC"; */
+"Edit looks Info" = "Edit looks Info";
+
+/* Class = "UILabel"; text = "Friends"; ObjectID = "qEX-WS-SHc"; */
+"Friends" = "Friends";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "qEu-gA-58v"; */
+"SAVE" = "SAVE";
+
+/* Class = "UILabel"; text = "30%"; ObjectID = "r3a-ys-3Kg"; */
+"30%" = "30%";
+
+/* Class = "UILabel"; text = "Smoke"; ObjectID = "rtQ-w1-rBb"; */
+"Smoke" = "Smoke";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "s6z-KK-Vlw"; */
+"Location" = "Location";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "sPr-GO-YBO"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Religion"; ObjectID = "t1V-NX-rl7"; */
+"Religion" = "Religion";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "t6S-qC-dxh"; */
+"Location" = "Location";
+
+/* Class = "UITextField"; placeholder = "Hobby"; ObjectID = "t8R-4l-i1W"; */
+"Hobby" = "Hobby";
+
+/* Class = "UILabel"; text = "People i Disliked"; ObjectID = "tHP-u0-e5D"; */
+"People I Disliked" = "People I Disliked";
+
+/* Class = "UITextField"; placeholder = "Color"; ObjectID = "tbq-pB-xoz"; */
+"Color" = "Color";
+
+/* Class = "UILabel"; text = "Dish"; ObjectID = "tsq-hP-2sG"; */
+"Dish" = "Dish";
+
+/* Class = "UILabel"; text = "Music Genre"; ObjectID = "uA7-aT-pxl"; */
+"Music Genre" = "Music Genre";
+
+/* Class = "UILabel"; text = "-------"; ObjectID = "uJc-gl-Lv2"; */
+"-------" = "-------";
+
+/* Class = "UILabel"; text = "Friends"; ObjectID = "uct-tb-qZs"; */
+"Friends" = "Friends";
+
+/* Class = "UILabel"; text = "Sport"; ObjectID = "v9L-yB-5WX"; */
+"Sport" = "Sport";
+
+/* Class = "UILabel"; text = "There is no Blocked User"; ObjectID = "vNd-Ql-MBj"; */
+"There is no Blocked User" = "There is no Blocked User";
+
+/* Class = "UITextField"; placeholder = "Book"; ObjectID = "viY-3a-DCr"; */
+"Book" = "Book";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "vwd-hk-ESl"; */
+"Female" = "Female";
+
+/* Class = "UILabel"; text = "Curvy"; ObjectID = "wOi-6o-3DQ"; */
+"Curvy" = "Curvy";
+
+/* Class = "UILabel"; text = "Profile Completed"; ObjectID = "wZS-nG-MQv"; */
+"Profile Completed" = "Profile Completed";
+
+/* Class = "UITextField"; placeholder = "Religion"; ObjectID = "xKd-Ye-odv"; */
+"Religion" = "Religion";
+
+/* Class = "UILabel"; text = "You have No Friends"; ObjectID = "xTw-l2-9bO"; */
+"You have No Friends" = "You have No Friends";
+
+/* Class = "UILabel"; text = "TV Show"; ObjectID = "xUd-69-oH3"; */
+"TV Show" = "TV Show";
+
+/* Class = "UITextField"; placeholder = "Friends"; ObjectID = "xhp-7q-VKv"; */
+"Friends" = "Friends";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "yPJ-tH-UN4"; */
+"Male" = "Male";
+
+/* Class = "UITextField"; placeholder = "Tv Show"; ObjectID = "yW8-Xl-zSL"; */
+"Tv Show" = "Tv Show";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "yxs-P1-ybL"; */
+"Gender" = "Gender";
+
+/* Class = "UITextField"; placeholder = "Language"; ObjectID = "zRG-OF-HfI"; */
+"Language" = "Language";
+
+"Swipe Cards" = "Swipe Cards";
+
+"Swipe cards right and left if you like or dislike someone" = "Swipe cards right and left if you like or dislike someone";
+
+"Search Nearby" = "Search Nearby";
+
+"Connect With Local Singles & Start Your Online Dating Adventure!" = "Connect With Local Singles & Start Your Online Dating Adventure!";
+
+"Chat" = "Chat";
+"Connect with like minded people and exchange your love" = "Connect with like minded people and exchange your love";
+
+"Matches" = "Matches";
+
+"Visits" = "Visits";
+"Likes" = "Likes";
+"Request" = "Request";
+
+"Pro Users" = "Pro Users";
+"Hot or Not" = "Hot or Not";
+
+"View More" = "View More";
+"You got a new match, click to view" = "You got a new match, click to view";
+"Visit you" = "Visit you";
+"Like you" = "Like you";
+"Dislike you" = "Dislike you";
+"Is now in your friend list" = "Is now in your friend list";
+"Requested to be a friend with you" = "Requested to be a friend with you";
+"Requested to be a friend with you" = "Requested to be a friend with you";
+"Likes" = "Likes";
+"Visits" = "Visits";
+"Settings" = "Settings";
+"Boost Me" = "Boost Me";
+"Edit Profile" = "Edit Profile";
+"Friends" = "Friends";
+"Display all your friend users" = "Display all your friend users";
+"People i Liked" = "People i Liked";
+"Display Users i give them a like" = "Display Users i give them a like";
+"People i Disliked" = "People i Disliked";
+"Display users i didn't like" = "Display users i didn't like";
+"Favorite" = "Favorite";
+"Display all your favorite users" = "Display all your favorite users";
+"Blogs" = "Blogs";
+"Read the latest Articles" = "Read the latest Articles";
+"Invite Friends" = "Invite Friends";
+"Invite Friends to the app" = "Invite Friends to the app";
+
+"Credits" = "Credits";
+"Your Quickdate Credits balance" = "Your Quickdate Credits balance";
+"Boost your profile" = "Boost your profile";
+"Highlight your messages" = "Highlight your messages";
+"send a gift" = "send a gift";
+"Get seen 100x in Discover" = "Get seen 100x in Discover";
+"Put your self First in Search" = "Put your self First in Search";
+"Get additional Stickers" = "Get additional Stickers";
+"Double your chances for a friendship" = "Double your chances for a friendship";
+"Buy Credit" = "Buy Credits";
+"Bag of Credits" = "Bag of Credits";
+"Box of Credits" = "Box of Credits";
+"Chest of Credits" = "Chest of Credits";
+"Terms and conditions" = "Terms and conditions";
+"Skip Credit" = "Skip Credit";
+"Weekly" = "Weekly";
+"Monthly" = "Monthly";
+"Yearly" = "Yearly";
+"Lifetime" = "Lifetime";
+"Select Payment" = "Select Payment";
+"The Apple Pay transaction was complete." = "The Apple Pay transaction was complete.";
+"The RazorPay transaction was complete." = "The RazorPay transaction was complete.";
+"Success" = "Success";
+"Loading..." = "Loading...";
+"help" = "help";
+"about" = "about";
+"Logout" = "Logout";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+"Confirm" = "Confirm";
+"Cancel" = "Cancel";
+"General" = "General";
+"Security" = "Security";
+"Display" = "Display";
+"Messenger" = "Messenger";
+"Privacy" = "Privacy";
+"Storage" = "Storage";
+"Support" = "Support";
+"My Account" = "My Account";
+"Withdrawals" = "Withdrawals";
+"Blocked Users" = "Blocked Users";
+"Social Links" = "Social Links";
+"My Affliates" = "My Affliates";
+"Password" = "Password";
+"Change your password" = "Change your password";
+"Manage Sessions" = "Manage Sessions";
+"DarkMode" = "DarkMode";
+"Theme" = "Theme";
+"Show when you're active" = "Show when you're active";
+"Show my profile on search engines?" = "Show my profile on search engines?";
+"Show my profile in random users?" =  "Show my profile in random users?";
+"Show my profile in find match page?" = "Show my profile in find match page?";
+"Confirm request when someone request to be a friend with you?" = "Confirm request when someone request to be a friend with you?";
+"Clear Cache" = "Clear Cache";
+"Delete account" = "Delete account";
+"Please enter Current Password." = "Please enter Current Password.";
+"Please enter New Password." = "Please enter New Password.";
+"Please enter Repeat Password." = "Please enter Repeat Password.";
+"Password do not match." = "Password do not match.";
+"Please enter amount." = "Please enter amount.";
+"Please enter email" = "Please enter email";
+"Email is badly formatted." = "Email is badly formatted.";
+"Amount shouldn't be less than 50." = "Amount shouldn't be less than 50.";
+"Phone" = "Phone";
+"Browser" = "Browser";
+"Last seen" = "Last seen";
+
+"BASICS" = "BASICS";
+"BACKGROUND" = "BACKGROUND";
+"LIFESTYLE" = "LIFESTYLE";
+"MORE" = "MORE";
+"LOOKS" = "LOOKS";
+
+
+"Languages" = "Languages";
+"Cancel" = "Cancel";
+"Block" = "Block";
+"Report" =  "Report";
+"Unknown" = "Unknown";
+
+"Gallery" = "Gallery";
+"Camera" = "Camera";
+"Select Source" = "Select Source";
+
+"Clear chat" = "Clear chat";
+"UnFavorite" = "UnFavorite";
+
+"Verify your Number" = "Verify your Number";
+"Phone Number" = "Phone Number";
+"Please enter your mobile number to receive a verification code. Carrier rates may apply" = "Please enter your mobile number to receive a verification code. Carrier rates may apply";
+"NO, OTHER TIME" = "NO, OTHER TIME";
+"Continue" = "Continue";
+
+
+"Two-factor Authentication" = "Two-factor Authentication";
+"Turn on 2-step login to level-up your account security. Once turned on, you'll use both your password and a 6-digit security code send to your  phone or email to log in." = "Turn on 2-step login to level-up your account security. Once turned on, you'll use both your password and a 6-digit security code send to your  phone or email to log in.";
+"Disable" = "Disable";
+"Enable" = "Enable";
+"SAVE" = "SAVE";
+
+"Defualt" = "Defualt";
+
+"Copy Profile Link" = "Copy Profile Link";
+"Social Media Invite" = "Social Media Invite";
+"Share it by inviting your friends using these" = "Share it by inviting your friends using these";
+
+"Paypal" = "Paypal";
+"Credit Card" = "Credit Card";
+"Bank Transfer" = "Bank Transfer";
+"Select Payment" = "Select Payment";
+"If you dislike this person and you don't want to keep in touch Swipe Left" = "If you dislike this person and you don't want to keep in touch Swipe Left";
+"You got a new match, click to view!"  = "You got a new match, click to view!";
+"There is no data to show" = "There is no data to show";
+
+"Copy Link" = "Copy Link";
+"Views" = "Views";
+"Copy to clipboard" = "Copy to clipboard";
+
+"BY REGISTERING YOU AGREE TO OUR" = "BY REGISTERING YOU AGREE TO OUR";
+
+"By registering you agree to our terms of service" = "By registering you agree to our terms of service";
+"OKAY" = "OKAY";
+"TERMS OF SERVICE" = "TERMS OF SERVICE";
+"PRIVACY" = "PRIVACY";
+"Security" = "Security";
+"Please enter first name." = "Please enter first name.";
+"Please enter last name." = "Please enter last name.";
+"Email is badly formatted." = "Email is badly formatted.";
+"Password do not match." = "Password do not match.";
+"Please enter confirm password." = "Please enter confirm password.";
+"Please enter password." = "Please enter password.";
+"Please enter email." = "Please enter email.";
+"Please enter username." = "Please enter username.";
+"Internet Error" = "Internet Error";
+
+
+/* NAZMI */
+
+/* NoInternetViewController */
+"Try Again" = "Try Again";
+"No Internet Available" = "No Internet Available";
+
+"We could not establish a connection with our servers please try again later." = "We could not establish a connection with our servers please try again later.";
+
+
+/* Profile */
+"Updated successfully..." = "Updated successfully...";
+
+/* Dashboard */
+
+"Find a Match" = "Find a Match";
+"Online Now" = "Online Now";
+
+"View Profile" = "View Profile";
+"FAQ, contact us, privacy" = "FAQ, contact us, privacy";
+
+"Add Comment here" = "Add Comment here";
+
+"Please enter Code" = "Please enter Code";
+
+"Yes, I want to delete " = "Yes, I want to delete ";
+
+" permanently from QuickDate Account." = " permanently from QuickDate Account.";
+
+"Do you want to unblock this user ?" = "Do you want to unblock this user ?";
+
+"Do you want to log out from this device?" = "Do you want to log out from this device?";
+
+"The files will be deleted. Are you sure?" = "The files will be deleted. Are you sure?";

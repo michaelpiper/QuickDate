@@ -1,0 +1,102 @@
+
+/* Class = "UILabel"; text = "Expire"; ObjectID = "0tg-4U-fFl"; */
+"0tg-4U-fFl.text" = "Expire";
+
+/* Class = "UITextField"; placeholder = "Enter your card number"; ObjectID = "2EQ-8C-zdo"; */
+"2EQ-8C-zdo.placeholder" = "Enter your card number";
+
+/* Class = "UILabel"; text = "Routing code"; ObjectID = "2oR-kL-VFZ"; */
+"2oR-kL-VFZ.text" = "Routing code";
+
+/* Class = "UILabel"; text = "**** **** **** ****"; ObjectID = "3f4-8z-Efq"; */
+"3f4-8z-Efq.text" = "**** **** **** ****";
+
+/* Class = "UILabel"; text = "Bank Transfer"; ObjectID = "5xU-EZ-8nj"; */
+"5xU-EZ-8nj.text" = "Bank Transfer";
+
+/* Class = "UILabel"; text = "Note:"; ObjectID = "6C6-Hg-Nd3"; */
+"6C6-Hg-Nd3.text" = "Note:";
+
+/* Class = "UIButton"; normalTitle = "Select Picture"; ObjectID = "6Yh-Rd-ixg"; */
+"6Yh-Rd-ixg.normalTitle" = "Select Picture";
+
+/* Class = "UILabel"; text = "Turkey"; ObjectID = "C6S-zz-fXx"; */
+"C6S-zz-fXx.text" = "Turkey";
+
+/* Class = "UILabel"; text = "Get discount when buy boost me"; ObjectID = "EHE-Lq-5lf"; */
+"EHE-Lq-5lf.text" = "Get discount when buy boost me";
+
+/* Class = "UILabel"; text = "MM/YY"; ObjectID = "GA4-dc-sxT"; */
+"GA4-dc-sxT.text" = "MM/YY";
+
+/* Class = "UILabel"; text = "Display on top in random users"; ObjectID = "KJf-Gu-qwa"; */
+"KJf-Gu-qwa.text" = "Display on top in random users";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "NAp-V8-KfT"; */
+"NAp-V8-KfT.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Skip Premium"; ObjectID = "OAH-xI-2qI"; */
+"OAH-xI-2qI.normalTitle" = "Skip Premium";
+
+/* Class = "UILabel"; text = "Activating Premium will help you meet more people, faster."; ObjectID = "Ot5-qg-BnH"; */
+"Ot5-qg-BnH.text" = "Activating Premium will help you meet more people, faster.";
+
+/* Class = "UILabel"; text = "See like notifications"; ObjectID = "R5X-rn-i6X"; */
+"R5X-rn-i6X.text" = "See like notifications";
+
+/* Class = "UILabel"; text = "Expire"; ObjectID = "RDL-Dx-Hgs"; */
+"RDL-Dx-Hgs.text" = "Expire";
+
+/* Class = "UITextView"; text = "Please transfer the amount of $8 to this bank account to purchase Weekly Plan Premium Membership"; ObjectID = "SOy-Qm-czr"; */
+"SOy-Qm-czr.text" = "Please transfer the amount of $8 to this bank account to purchase Weekly Plan Premium Membership";
+
+/* Class = "UILabel"; text = "See more stickers on chat"; ObjectID = "Syj-U9-WQq"; */
+"Syj-U9-WQq.text" = "See more stickers on chat";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "Uas-Ue-uBd"; */
+"Uas-Ue-uBd.text" = "Country";
+
+/* Class = "UILabel"; text = "Display first in find matches"; ObjectID = "YPN-od-mgf"; */
+"YPN-od-mgf.text" = "Display first in find matches";
+
+/* Class = "UITextField"; placeholder = "MMYY"; ObjectID = "ZB0-gk-bl5"; */
+"ZB0-gk-bl5.placeholder" = "MMYY";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "c6y-50-Lq0"; */
+"c6y-50-Lq0.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Upgrade To Premium"; ObjectID = "cKL-VX-mKJ"; */
+"cKL-VX-mKJ.text" = "Upgrade To Premium";
+
+/* Class = "UILabel"; text = "**** **** **** ****"; ObjectID = "fnA-YJ-Yly"; */
+"fnA-YJ-Yly.text" = "**** **** **** ****";
+
+/* Class = "UILabel"; text = "Show in Premium bar"; ObjectID = "gQh-DL-Khd"; */
+"gQh-DL-Khd.text" = "Show in Premium bar";
+
+/* Class = "UILabel"; text = "Credit Card"; ObjectID = "gRj-VK-0An"; */
+"gRj-VK-0An.text" = "Credit Card";
+
+/* Class = "UILabel"; text = "Account name"; ObjectID = "goZ-I4-tB0"; */
+"goZ-I4-tB0.text" = "Account name";
+
+/* Class = "UITextView"; text = "In order to confirm the bank tranfer, you will need to upload a receipt or take a screenshot of your transfer within 1 day from your payment date. If a bank transfer is made but no receipt is uploaded within this period, your order will be cancelled. We will verify and confirm your receipt within 3 working days from the date you upload it."; ObjectID = "kzX-aK-82q"; */
+"kzX-aK-82q.text" = "In order to confirm the bank tranfer, you will need to upload a receipt or take a screenshot of your transfer within 1 day from your payment date. If a bank transfer is made but no receipt is uploaded within this period, your order will be cancelled. We will verify and confirm your receipt within 3 working days from the date you upload it.";
+
+/* Class = "UILabel"; text = "Account Number / IBAN"; ObjectID = "lOt-WG-NqA"; */
+"lOt-WG-NqA.text" = "Account Number / IBAN";
+
+/* Class = "UILabel"; text = "MM/YY"; ObjectID = "lPb-78-y8z"; */
+"lPb-78-y8z.text" = "MM/YY";
+
+/* Class = "UILabel"; text = "Antoian Kordiyal"; ObjectID = "oB4-CF-0Vm"; */
+"oB4-CF-0Vm.text" = "Antoian Kordiyal";
+
+/* Class = "UITextField"; placeholder = "CVV"; ObjectID = "rZC-L7-6G3"; */
+"rZC-L7-6G3.placeholder" = "CVV";
+
+/* Class = "UILabel"; text = "4796824372433055"; ObjectID = "uzy-Xr-qpG"; */
+"uzy-Xr-qpG.text" = "4796824372433055";
+
+/* Class = "UILabel"; text = "TGBATRISXXX"; ObjectID = "y8O-92-ZJZ"; */
+"y8O-92-ZJZ.text" = "TGBATRISXXX";

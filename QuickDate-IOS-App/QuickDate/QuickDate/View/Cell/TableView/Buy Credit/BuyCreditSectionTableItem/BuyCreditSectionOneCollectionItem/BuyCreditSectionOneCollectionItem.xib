@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-Regular.otf">
+            <string>Poppins-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="BuyCreditSectionOneCollectionItem" id="38N-rW-U15" customClass="BuyCreditSectionOneCollectionItem" customModule="QuickDate" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="385" height="123"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                <rect key="frame" x="0.0" y="0.0" width="385" height="123"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4yj-Vt-WJW">
+                        <rect key="frame" x="14" y="39.5" width="44" height="44"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_lucide_gift" translatesAutoresizingMaskIntoConstraints="NO" id="oM6-lj-QBh">
+                                <rect key="frame" x="11" y="11" width="22" height="22"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="oM6-lj-QBh" secondAttribute="height" id="ZIC-be-UYi"/>
+                                    <constraint firstAttribute="height" constant="22" id="zwd-lB-tV9"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="0.14913141730000001" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="44" id="ANN-z7-n9p"/>
+                            <constraint firstItem="oM6-lj-QBh" firstAttribute="centerY" secondItem="4yj-Vt-WJW" secondAttribute="centerY" id="DzK-BN-OCa"/>
+                            <constraint firstAttribute="width" secondItem="4yj-Vt-WJW" secondAttribute="height" multiplier="1:1" id="jjy-PE-qUR"/>
+                            <constraint firstItem="oM6-lj-QBh" firstAttribute="centerX" secondItem="4yj-Vt-WJW" secondAttribute="centerX" id="pph-oG-pDe"/>
+                        </constraints>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0 Credits" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MKn-vq-hxS">
+                        <rect key="frame" x="70" y="51.5" width="63" height="20"/>
+                        <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="14"/>
+                        <color key="textColor" name="primaryTextColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <color key="backgroundColor" name="primaryBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="4yj-Vt-WJW" firstAttribute="centerY" secondItem="38N-rW-U15" secondAttribute="centerY" id="ZRf-8b-FHz"/>
+                <constraint firstItem="MKn-vq-hxS" firstAttribute="leading" secondItem="4yj-Vt-WJW" secondAttribute="trailing" constant="12" id="dif-tl-h2a"/>
+                <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="MKn-vq-hxS" secondAttribute="trailing" constant="10" id="haO-Im-tss"/>
+                <constraint firstItem="MKn-vq-hxS" firstAttribute="centerY" secondItem="4yj-Vt-WJW" secondAttribute="centerY" id="lFc-Zc-fSy"/>
+                <constraint firstItem="4yj-Vt-WJW" firstAttribute="leading" secondItem="38N-rW-U15" secondAttribute="leading" constant="14" id="tbc-aI-J6M"/>
+            </constraints>
+            <size key="customSize" width="385" height="123"/>
+            <connections>
+                <outlet property="bgView" destination="4yj-Vt-WJW" id="Wh6-za-iBc"/>
+                <outlet property="itemText" destination="MKn-vq-hxS" id="T6z-45-53B"/>
+                <outlet property="viewImage" destination="oM6-lj-QBh" id="vTn-Au-1l1"/>
+            </connections>
+            <point key="canvasLocation" x="139.85507246376812" y="-12.388392857142856"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="ic_lucide_gift" width="24" height="24"/>
+        <namedColor name="primaryBackgroundColor">
+            <color red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="primaryTextColor">
+            <color red="0.074509803921568626" green="0.074509803921568626" blue="0.074509803921568626" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

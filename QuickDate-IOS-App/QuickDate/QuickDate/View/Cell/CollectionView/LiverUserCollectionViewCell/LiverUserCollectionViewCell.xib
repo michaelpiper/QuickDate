@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Poppins-Regular.otf">
+            <string>Poppins-Regular</string>
+        </array>
+        <array key="Poppins-SemiBold.otf">
+            <string>Poppins-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="LiverUserCollectionViewCell" id="gTV-IL-0wX" customClass="LiverUserCollectionViewCell" customModule="QuickDate" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="200" height="275"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="200" height="275"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="1L2-8q-rdF">
+                        <rect key="frame" x="0.0" y="0.0" width="200" height="275"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="loginBgrImage" translatesAutoresizingMaskIntoConstraints="NO" id="lhx-LW-zgc">
+                                <rect key="frame" x="0.0" y="0.0" width="200" height="275"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusV">
+                                        <real key="value" value="16"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="wua-pq-bCb">
+                                <rect key="frame" x="10" y="239.66666666666666" width="180" height="25.333333333333343"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Ravij, 23" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pOc-8x-8Vq">
+                                        <rect key="frame" x="0.0" y="0.0" width="180" height="25.333333333333332"/>
+                                        <fontDescription key="fontDescription" name="Poppins-SemiBold" family="Poppins" pointSize="18"/>
+                                        <color key="textColor" name="primaryEndColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="555Km" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Kp9-ze-BXG">
+                                        <rect key="frame" x="0.0" y="0.0" width="180" height="0.0"/>
+                                        <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="14"/>
+                                        <color key="textColor" name="primaryEndColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="wua-pq-bCb" secondAttribute="trailing" constant="10" id="706-rV-eEN"/>
+                            <constraint firstAttribute="trailing" secondItem="lhx-LW-zgc" secondAttribute="trailing" id="cFJ-L7-Htw"/>
+                            <constraint firstItem="lhx-LW-zgc" firstAttribute="top" secondItem="1L2-8q-rdF" secondAttribute="top" id="dT5-7W-b5e"/>
+                            <constraint firstAttribute="bottom" secondItem="wua-pq-bCb" secondAttribute="bottom" constant="10" id="dr8-Mf-6dd"/>
+                            <constraint firstItem="wua-pq-bCb" firstAttribute="leading" secondItem="1L2-8q-rdF" secondAttribute="leading" constant="10" id="hNR-3P-XW0"/>
+                            <constraint firstAttribute="bottom" secondItem="lhx-LW-zgc" secondAttribute="bottom" id="j8H-s8-3kk"/>
+                            <constraint firstItem="lhx-LW-zgc" firstAttribute="leading" secondItem="1L2-8q-rdF" secondAttribute="leading" id="p1B-3G-dvA"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusV">
+                                <real key="value" value="16"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="1L2-8q-rdF" secondAttribute="bottom" id="8uq-az-XtO"/>
+                <constraint firstAttribute="trailing" secondItem="1L2-8q-rdF" secondAttribute="trailing" id="IRJ-ak-t7z"/>
+                <constraint firstItem="1L2-8q-rdF" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="Pni-F3-X3O"/>
+                <constraint firstItem="1L2-8q-rdF" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="kU7-BM-8gK"/>
+            </constraints>
+            <size key="customSize" width="352" height="240"/>
+            <connections>
+                <outlet property="lblKm" destination="Kp9-ze-BXG" id="6Xg-bf-ohC"/>
+                <outlet property="lblTitle" destination="pOc-8x-8Vq" id="XEf-BC-OlE"/>
+                <outlet property="thumbImageView" destination="lhx-LW-zgc" id="JLa-zS-X8O"/>
+            </connections>
+            <point key="canvasLocation" x="360.30534351145036" y="34.507042253521128"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="loginBgrImage" width="333.33334350585938" height="500"/>
+        <namedColor name="primaryEndColor">
+            <color red="1" green="0.0" blue="0.49411764705882355" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

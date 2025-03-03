@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "Connect"; ObjectID = "Itl-2f-4xi"; */
+"Itl-2f-4xi.normalTitle" = "Connect";
+
+/* Class = "UIButton"; normalTitle = "Disconnect"; ObjectID = "Krq-Rh-ETb"; */
+"Krq-Rh-ETb.normalTitle" = "Disconnect";
+
+/* Class = "UIButton"; normalTitle = "Disconnect"; ObjectID = "LT3-yL-pUm"; */
+"LT3-yL-pUm.normalTitle" = "Disconnect";
+
+/* Class = "UILabel"; text = "TwilioVideo APIs"; ObjectID = "Lne-Ec-G4R"; */
+"Lne-Ec-G4R.text" = "TwilioVideo APIs";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "O4e-FE-ToP"; */
+"O4e-FE-ToP.text" = "Full Name";
+
+/* Class = "UIButton"; normalTitle = "Connect"; ObjectID = "OEK-e0-Hi3"; */
+"OEK-e0-Hi3.normalTitle" = "Connect";
+
+/* Class = "UILabel"; text = "Room name "; ObjectID = "Q6S-hD-KBQ"; */
+"Q6S-hD-KBQ.text" = "Room name ";
+
+/* Class = "UIButton"; normalTitle = "Mute"; ObjectID = "Xbg-m4-ul0"; */
+"Xbg-m4-ul0.normalTitle" = "Mute";
+
+/* Class = "UILabel"; text = "Room:"; ObjectID = "nJ2-rg-Gq3"; */
+"nJ2-rg-Gq3.text" = "Room:";
+
+/* Class = "UILabel"; text = "Calling"; ObjectID = "o9N-uy-vh8"; */
+"o9N-uy-vh8.text" = "Calling";
+
+/* Class = "UILabel"; text = "Room:"; ObjectID = "wwq-z2-kUj"; */
+"wwq-z2-kUj.text" = "Room:";

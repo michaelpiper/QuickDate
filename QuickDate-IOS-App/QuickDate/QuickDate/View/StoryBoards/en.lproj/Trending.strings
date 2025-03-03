@@ -1,0 +1,96 @@
+
+/* Class = "UITextField"; placeholder = "Religion"; ObjectID = "1V5-Sc-adF"; */
+"1V5-Sc-adF.placeholder" = "Religion";
+
+/* Class = "UITextField"; placeholder = "Interest"; ObjectID = "2ZX-2f-QYr"; */
+"2ZX-2f-QYr.placeholder" = "Interest";
+
+/* Class = "UILabel"; text = "Who are you looking for?"; ObjectID = "5Jy-bx-kCc"; */
+"5Jy-bx-kCc.text" = "Who are you looking for?";
+
+/* Class = "UIButton"; normalTitle = "Reset filter"; ObjectID = "8g5-5l-Uqv"; */
+"8g5-5l-Uqv.normalTitle" = "Reset filter";
+
+/* Class = "UILabel"; text = "Hot or Not"; ObjectID = "AW7-PC-5dC"; */
+"AW7-PC-5dC.text" = "Hot or Not";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "BHk-aE-5pe"; */
+"BHk-aE-5pe.text" = "Location";
+
+/* Class = "UILabel"; text = "NearBy"; ObjectID = "Eu3-ys-1pL"; */
+"Eu3-ys-1pL.text" = "NearBy";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "I9L-gX-45v"; */
+"I9L-gX-45v.text" = "Distance";
+
+/* Class = "UITextField"; placeholder = "smoke"; ObjectID = "Inw-E4-gxs"; */
+"Inw-E4-gxs.placeholder" = "smoke";
+
+/* Class = "UILabel"; text = "Miin"; ObjectID = "K3o-Fn-Hmm"; */
+"K3o-Fn-Hmm.text" = "Miin";
+
+/* Class = "UITextField"; placeholder = "Language"; ObjectID = "MEV-2n-ppm"; */
+"MEV-2n-ppm.placeholder" = "Language";
+
+/* Class = "UITextField"; placeholder = "Pets"; ObjectID = "PJy-aI-wKq"; */
+"PJy-aI-wKq.placeholder" = "Pets";
+
+/* Class = "UIButton"; normalTitle = "BOYS"; ObjectID = "SFQ-ce-N7y"; */
+"SFQ-ce-N7y.normalTitle" = "BOYS";
+
+/* Class = "UITextField"; placeholder = "Education"; ObjectID = "Vkt-Lu-nrS"; */
+"Vkt-Lu-nrS.placeholder" = "Education";
+
+/* Class = "UINavigationItem"; title = "Hot or Not "; ObjectID = "W1f-KQ-dQp"; */
+"W1f-KQ-dQp.title" = "Hot or Not ";
+
+/* Class = "UILabel"; text = "35 km"; ObjectID = "WaP-wd-1Sn"; */
+"WaP-wd-1Sn.text" = "35 km";
+
+/* Class = "UIButton"; normalTitle = "GIRLS"; ObjectID = "XA2-Ri-386"; */
+"XA2-Ri-386.normalTitle" = "GIRLS";
+
+/* Class = "UILabel"; text = "Online Now"; ObjectID = "Xk7-hV-GcB"; */
+"Xk7-hV-GcB.text" = "Online Now";
+
+/* Class = "UILabel"; text = "0 - 100"; ObjectID = "ZdM-jq-WIE"; */
+"ZdM-jq-WIE.text" = "0 - 100";
+
+/* Class = "UILabel"; text = "Max"; ObjectID = "ZjT-f5-x2k"; */
+"ZjT-f5-x2k.text" = "Max";
+
+/* Class = "UITextField"; placeholder = "From Height"; ObjectID = "fMz-9e-2L1"; */
+"fMz-9e-2L1.placeholder" = "From Height";
+
+/* Class = "UIButton"; normalTitle = "BOTH"; ObjectID = "fW9-yX-pgn"; */
+"fW9-yX-pgn.normalTitle" = "BOTH";
+
+/* Class = "UILabel"; text = "There is no data to show"; ObjectID = "goT-Eg-uzd"; */
+"goT-Eg-uzd.text" = "There is no data to show";
+
+/* Class = "UITextField"; placeholder = "Slim"; ObjectID = "hug-FN-5V1"; */
+"hug-FN-5V1.placeholder" = "Slim";
+
+/* Class = "UITextField"; text = "Body"; ObjectID = "hug-FN-5V1"; */
+"hug-FN-5V1.text" = "Body";
+
+/* Class = "UITextField"; placeholder = "Relationship"; ObjectID = "lS0-zI-phd"; */
+"lS0-zI-phd.placeholder" = "Relationship";
+
+/* Class = "UILabel"; text = "Filter"; ObjectID = "lso-pW-mRI"; */
+"lso-pW-mRI.text" = "Filter";
+
+/* Class = "UIButton"; normalTitle = "Apply Filter"; ObjectID = "lzy-4r-x7j"; */
+"lzy-4r-x7j.normalTitle" = "Apply Filter";
+
+/* Class = "UITextField"; placeholder = "Drink"; ObjectID = "nAe-EJ-vBH"; */
+"nAe-EJ-vBH.placeholder" = "Drink";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "nR2-JH-KvO"; */
+"nR2-JH-KvO.text" = "Age";
+
+/* Class = "UITextField"; placeholder = "Ethnicity"; ObjectID = "q5S-CI-9ll"; */
+"q5S-CI-9ll.placeholder" = "Ethnicity";
+
+/* Class = "UITextField"; placeholder = "To Height"; ObjectID = "vbH-Qz-IpG"; */
+"vbH-Qz-IpG.placeholder" = "To Height";
