@@ -1,0 +1,363 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name QuickDateSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+@_hasMissingDesignatedInitializers public class ServerCredentials {
+  public static let instance: QuickDateSDK.ServerCredentials
+  public static func setServerDataWithKey(key: Swift.String)
+  @objc deinit
+}
+public let InterNetError: Swift.String
+public struct API {
+  public static var baseURL: Swift.String
+  public static var justURL: Swift.String
+  public struct AUTH_CONSTANT_METHODS {
+    public static let LOGIN_API: Swift.String
+    public static let SOCIAL_LOGIN_API: Swift.String
+    public static let LOGOUT_API: Swift.String
+    public static let REGISTER_API: Swift.String
+    public static let DELETE_ACCOUNT_API: Swift.String
+    public static let PAY_STRIPE_API: Swift.String
+    public static let RESET_PASSWORD_API: Swift.String
+    public static let REPLACE_PASSWORD_API: Swift.String
+    public static let CHANGE_PASSWORD_API: Swift.String
+    public static let ACTIVATE_ACCOUNT_API: Swift.String
+    public static let RESEND_EMAIL_API: Swift.String
+    public static let VERIFY_TWO_FACTOR_API: Swift.String
+  }
+  public struct USERS_CONSTANT_METHODS {
+    public static let PROFILE_API: Swift.String
+    public static let UPDATE_PROFILE_API: Swift.String
+    public static let ADD_LIKES_API: Swift.String
+    public static let MATCHES_API: Swift.String
+    public static let SEARCH_API: Swift.String
+    public static let SEND_GIFT_API: Swift.String
+    public static let LIST_VISITS_API: Swift.String
+    public static let DELETE_LIKE_API: Swift.String
+    public static let BLOCK_API: Swift.String
+    public static let UPDATE_AVATAR_API: Swift.String
+    public static let REPORT_API: Swift.String
+    public static let DELETE_MEDIA_FILE_API: Swift.String
+    public static let UPLOAD_MEDIA_FILE_API: Swift.String
+    public static let MANAGE_POPULARITY_API: Swift.String
+    public static let SET_CREDIT_API: Swift.String
+    public static let SET_PRO_API: Swift.String
+    public static let GET_PRO_API: Swift.String
+    public static let DELETE_DISLIKE_API: Swift.String
+    public static let RANDOM_USER_API: Swift.String
+    public static let HOT_OR_NOT_API: Swift.String
+    public static let ADD_HOT_API: Swift.String
+    public static let ADD_NOT_API: Swift.String
+    public static let REQUEST_WITHDRAWAL_API: Swift.String
+    public static let LIST_LIKED_API: Swift.String
+    public static let LIST_DISLIKED_API: Swift.String
+    public static let LIST_SESSIONS_API: Swift.String
+    public static let DELETE_SESSION_API: Swift.String
+    public static let LIST_TRANSACTIONS_API: Swift.String
+    public static let EDIT_VIDEO_FILE_API: Swift.String
+    public static let UPLOAD_VIDEO_FILE_API: Swift.String
+    public static let LIST_LIKES_API: Swift.String
+  }
+  public struct COMMON_CONSTANT_METHODS {
+    public static let GET_OPTIONS_API: Swift.String
+    public static let GET_GIFTS_API: Swift.String
+    public static let GET_STICKERS_API: Swift.String
+    public static let GET_NOTIFICATIONS_API: Swift.String
+    public static let BANK_TRANSFER_API: Swift.String
+  }
+  public struct MESSAGE_CONSTANT_METHODS {
+    public static let SEND_MESSAGE_API: Swift.String
+    public static let SEND_STICKER_API: Swift.String
+    public static let SEND_MEDIA_API: Swift.String
+    public static let GET_CONVERSATION_LIST_API: Swift.String
+    public static let GET_CHAT_CONVERSATIONS_API: Swift.String
+    public static let SWITCH_ONLINE_API: Swift.String
+    public static let DELETE_MESSAGES_API: Swift.String
+  }
+  public struct AUDIO_VIDEO_CONSTANT_METHODS {
+    public static let CREATE_NEW_VIDEO_CALL_API: Swift.String
+    public static let CREATE_NEW_AUDIO_CALL_API: Swift.String
+    public static let DECLINE_VIDEO_CALL_API: Swift.String
+    public static let DECLINE_AUDIO_CALL_API: Swift.String
+    public static let DELETE_VIDEO_CALL_API: Swift.String
+    public static let DELETE_AUDIO_CALL_API: Swift.String
+    public static let CHECK_VIDEO_IN_CALL_API: Swift.String
+    public static let CHECK_AUDIO_IN_CALL_API: Swift.String
+    public static let CHECK_FOR_VIDEO_ANSWER_API: Swift.String
+    public static let CHECK_FOR_AUDIO_ANSWER_API: Swift.String
+    public static let ANSWER_VIDEO_CALL_API: Swift.String
+    public static let ANSWER_AUDIO_CALL_API: Swift.String
+  }
+  public struct BLOGS_CONSTANT_METHODS {
+    public static let ARTICLES_API: Swift.String
+    public static let ARTICLE_API: Swift.String
+    public static let BLOG_CATEGORIES_API: Swift.String
+  }
+  public struct SUCCESS_STORIES_CONSTANT_METHODS {
+    public static let LIST_SUCCESS_STORIES_API: Swift.String
+    public static let GET_SUCCESS_STORY_API: Swift.String
+    public static let APPROVE_STORY_API: Swift.String
+    public static let DISAPPROVE_STORY_API: Swift.String
+  }
+  public struct FRIEND_REQUEST_CONSTANT_METHODS {
+    public static let ADD_FRIEND_API: Swift.String
+    public static let DISAPPROVE_FRIEND_REQUEST_API: Swift.String
+    public static let APPROVE_FRIEND_REQUEST_API: Swift.String
+    public static let LIST_FRIEND_REQUEST_API: Swift.String
+    public static let LIST_FRIENDS_API: Swift.String
+  }
+  public struct FAVORITE_CONSTANT_METHODS {
+    public static let ADD_FAVORITE_API: Swift.String
+    public static let DELETE_FAVORITE_API: Swift.String
+    public static let FETCH_FAVORITE_API: Swift.String
+  }
+  public struct TWO_FACTOR_SETTINGS_CONSTANT {
+    public static let TWO_FACTOR_SETTINGS_API: Swift.String
+  }
+  public struct LIVE_STREAM_METHODS {
+    public static let GO_LIVE: Swift.String
+    public static let NEW_COMMENT: Swift.String
+    public static let CHECK_COMMENTS: Swift.String
+    public static let DELETE: Swift.String
+    public static let LIVE_USERS_LIST: Swift.String
+  }
+  public struct PAYMENT_METHODS {
+    public static let RAZORPAY_CREATE: Swift.String
+    public static let AUTHORIZE_PAY: Swift.String
+    public static let IYZIPAY_CREATE: Swift.String
+  }
+  public struct STRIPE_PAYMENT_METHODS {
+    public static let STRIPE_CREATE: Swift.String
+    public static let STRIPE_SUCCESS_PAY: Swift.String
+  }
+  public struct PAYSTACK_PAYMENT_METHODS {
+    public static let PAYSTACK_INITIALIZE: Swift.String
+    public static let PAYSTACK_PAYMENT: Swift.String
+  }
+  public struct AAMAR_PAYMENY_METHODS {
+    public static let AAMARPAY_GET: Swift.String
+  }
+  public struct FLUTTE_WAVE_PAYMENY_METHODS {
+    public static let FLUTTE_WAVE_PAY: Swift.String
+  }
+  public struct COINBASE_PAYMENY_METHODS {
+    public static let COINBASE_CREATE: Swift.String
+  }
+  public struct NGENIUS_PAYMENY_METHODS {
+    public static let NGENIUS_GET: Swift.String
+    public static let NGENIUS_SUCCESS: Swift.String
+  }
+  public struct PARAMS {
+    public static var username: Swift.String
+    public static var password: Swift.String
+    public static var c_pass: Swift.String
+    public static var n_pass: Swift.String
+    public static var cn_pass: Swift.String
+    public static var platform: Swift.String
+    public static var access_token: Swift.String
+    public static var provider: Swift.String
+    public static var stripe_token: Swift.String
+    public static var pay_type: Swift.String
+    public static var description: Swift.String
+    public static var price: Swift.String
+    public static var email: Swift.String
+    public static var email_code: Swift.String
+    public static var device_id: Swift.String
+    public static var first_name: Swift.String
+    public static var last_name: Swift.String
+    public static var user_id: Swift.String
+    public static var fetch: Swift.String
+    public static var address: Swift.String
+    public static var gender: Swift.String
+    public static var facebook: Swift.String
+    public static var google: Swift.String
+    public static var twitter: Swift.String
+    public static var linkedin: Swift.String
+    public static var website: Swift.String
+    public static var instagram: Swift.String
+    public static var language: Swift.String
+    public static var phone_number: Swift.String
+    public static var lat: Swift.String
+    public static var lng: Swift.String
+    public static var about: Swift.String
+    public static var birthday: Swift.String
+    public static var country: Swift.String
+    public static var lastseen: Swift.String
+    public static var last_location_update: Swift.String
+    public static var height: Swift.String
+    public static var hair_color: Swift.String
+    public static var interest: Swift.String
+    public static var location: Swift.String
+    public static var relationship: Swift.String
+    public static var work_status: Swift.String
+    public static var education: Swift.String
+    public static var ethnicity: Swift.String
+    public static var body: Swift.String
+    public static var character: Swift.String
+    public static var children: Swift.String
+    public static var friends: Swift.String
+    public static var pets: Swift.String
+    public static var live_with: Swift.String
+    public static var car: Swift.String
+    public static var religion: Swift.String
+    public static var smoke: Swift.String
+    public static var drink: Swift.String
+    public static var travel: Swift.String
+    public static var music: Swift.String
+    public static var dish: Swift.String
+    public static var song: Swift.String
+    public static var hobby: Swift.String
+    public static var city: Swift.String
+    public static var sport: Swift.String
+    public static var book: Swift.String
+    public static var movie: Swift.String
+    public static var colour: Swift.String
+    public static var tv: Swift.String
+    public static var privacy_show_profile_on_google: Swift.String
+    public static var privacy_show_profile_random_users: Swift.String
+    public static var privacy_show_profile_match_profiles: Swift.String
+    public static var confirm_followers: Swift.String
+    public static var email_on_profile_view: Swift.String
+    public static var email_on_new_message: Swift.String
+    public static var email_on_profile_like: Swift.String
+    public static var email_on_purchase_notifications: Swift.String
+    public static var email_on_special_offers: Swift.String
+    public static var email_on_announcements: Swift.String
+    public static var likes: Swift.String
+    public static var dislikes: Swift.String
+    public static var limit: Swift.String
+    public static var offset: Swift.String
+    public static var to_userid: Swift.String
+    public static var gift_id: Swift.String
+    public static var user_likeid: Swift.String
+    public static var block_userid: Swift.String
+    public static var avatar: Swift.String
+    public static var report_userid: Swift.String
+    public static var id: Swift.String
+    public static var type: Swift.String
+    public static var credits: Swift.String
+    public static var via: Swift.String
+    public static var user_dislike: Swift.String
+    public static var message: Swift.String
+    public static var media_file: Swift.String
+    public static var prev: Swift.String
+    public static var online: Swift.String
+    public static var to_id: Swift.String
+    public static var sticker_id: Swift.String
+    public static var hash_id: Swift.String
+    public static var category_id: Swift.String
+    public static var search_keyword: Swift.String
+    public static var transfer_mode: Swift.String
+    public static var receipt: Swift.String
+    public static var stream_name: Swift.String
+    public static var post_id: Swift.String
+    public static var page: Swift.String
+    public static var text: Swift.String
+    public static var gender0: Swift.String
+    public static var body0: Swift.String
+    public static var ethnicity0: Swift.String
+    public static var religion0: Swift.String
+    public static var drink0: Swift.String
+    public static var smoke0: Swift.String
+    public static var education0: Swift.String
+    public static var pets0: Swift.String
+    public static var location0: Swift.String
+    public static var language0: Swift.String
+    public static var interest0: Swift.String
+    public static var height_from0: Swift.String
+    public static var height_to0: Swift.String
+    public static var age_from0: Swift.String
+    public static var age_to0: Swift.String
+    public static var lat0: Swift.String
+    public static var lng0: Swift.String
+    public static var relationship0: Swift.String
+    public static var uid: Swift.String
+    public static var located0: Swift.String
+    public static var genders: Swift.String
+    public static var paypal_email: Swift.String
+    public static var amount: Swift.String
+    public static var sid: Swift.String
+    public static var code: Swift.String
+    public static var Google_Key: Swift.String
+    public static var ServerKey: Swift.String
+    public static var new_email: Swift.String
+    public static var two_factor: Swift.String
+    public static var two_factor_email_code: Swift.String
+  }
+  public struct SEARCH_PARAMS {
+    public static var gender: Swift.String
+    public static var location: Swift.String
+    public static var form_age: Swift.String
+    public static var to_age: Swift.String
+  }
+  public struct ERROR_CODES {
+    public static var E_200: Swift.Int
+    public static var E_400: Swift.Int
+    public static var E_404: Swift.Int
+  }
+  public struct SOCIAL_PROVIDERS {
+    public static var FACEBOOK: Swift.String
+    public static var GOOGLE: Swift.String
+  }
+  public struct SERVER_KEY {
+    public static var serverKey: Swift.String
+  }
+  public struct PURCHASE_CODE {
+    public static var purchaseCode: Swift.String
+  }
+}
+@_hasMissingDesignatedInitializers public class EventBusConstants {
+  public struct EventBusConstantsUtils {
+    public static let EVENT_INTERNET_CONNECTED: Swift.String
+    public static let EVENT_INTERNET_DIS_CONNECTED: Swift.String
+    public static let EVENT_DID_SELECT_NOTIIFCATION: Swift.String
+  }
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class Local {
+  public struct USER_SESSION {
+    public static let User_Session: Swift.String
+    public static let User_id: Swift.String
+    public static let Access_token: Swift.String
+    public static let Current_Password: Swift.String
+  }
+  public struct CHAT_COLOR_HEX {
+    public static let ChatColorHex: Swift.String
+  }
+  public struct STICKERS {
+    public static let Stickers: Swift.String
+  }
+  public struct GIFTS {
+    public static let Gifts: Swift.String
+  }
+  public struct SETTINGS {
+    public static let Settings: Swift.String
+  }
+  public struct FAVORITE {
+    public static let favorite: Swift.String
+  }
+  public struct DOWNLOAD_SONG {
+    public static let Download_Song: Swift.String
+  }
+  public struct CONVERSATION_TONE {
+    public static let ConversationTone: Swift.String
+  }
+  public struct CALL_LOGS {
+    public static let CallLogs: Swift.String
+  }
+  public struct NOTIFICATIONS {
+    public static let Notfication: Swift.String
+  }
+  public struct LANGUAGE {
+    public static let Language: Swift.String
+  }
+  public struct DEVICE_ID {
+    public static let DeviceId: Swift.String
+  }
+  @objc deinit
+}
